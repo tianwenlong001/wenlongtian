@@ -41,7 +41,7 @@ School of Computer Science and Technology, University of South China
 
 
 ### Conference Papers
-1. Xuming Ye, Xiaoye Xue, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu, Yaping Wan: Chunk Content is not Enough: Chunk-Context Aware Resemblance Detection for Deduplication Delta Compression. 31st Data Compression Conference, DCC 2021, Snowbird, UT, USA, March 22-25, 2022. （Accepted）
+1. Xuming Ye, Xiaoye Xue, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu, Yaping Wan: Chunk Content is not Enough: Chunk-Context Aware Resemblance Detection for Deduplication Delta Compression. 31st Data Compression Conference, DCC 2022, Snowbird, UT, USA, March 22-25, 2022. （Accepted）
 2. Xuming Ye, Jia Tang, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu: Fast Variable-Grained Resemblance Data Deduplication For Cloud Storage. IEEE International Conference on Networking, Architecture and Storage, NAS 2021, Riverside, CA, USA, October 24-26, 2021:1-8
 3. **Wenlong Tian**, Ruixuan Li, Weijun Xiao, Zhiyong Xu: PTS-Dep: A High-Performance Two-Party Secure Deduplication for Cloud Storage. HPCC/SmartCity/DSS 2018: 700-707
 4. Dongdong Yue, Ruixuan Li, Yan Zhang, **Wenlong Tian**, Chengyi Peng: Blockchain Based Data Integrity Verification in P2P Cloud Storage. ICPADS 2018: 561-568 
