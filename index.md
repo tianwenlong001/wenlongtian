@@ -20,7 +20,7 @@ Teaching Courses: Unified Modelling Language, Computer Networks
 ### **Education**
 
 - **Nanyang Technological University** 																				            Singapore
-  - *Postdoc. Visting Scholar 2022 - present*
+  - *Postdoc. Cryptography,  2022 - present*
 - **University of South China** 																				            Hengyang, China
   - *Assistant Professor. Computer Science 2019 - present*
 - **Virginia Commonwealth University**																			Richmond, USA
