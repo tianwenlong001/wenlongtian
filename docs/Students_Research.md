@@ -10,7 +10,7 @@
 
 
 ### Brief Invitation
-Warmly welcome the undergraduates students to join my research team. You will greatly improve your expression, scientific innovation, programming and teamwork management. The interesting research field are listed here, but not limited in this scope. If you want to join us, please feel freee to contact me ( Email: wenlongtian@usc.edu.cn ) and I will organize an interview for you.
+Warmly welcome the undergraduates students to join my research team. You will greatly improve your expression, scientific innovation, programming and teamwork management. The interesting research field are listed here, but not limited in this scope. If you want to join us, please feel freee to contact me ( Email: wenlongtian@usc.edu.cn ) and I will organize an interview for you. Here is my [personal homepage](https://tianwenlong001.github.io/wenlongtian/)
 
 ### Interesting Research Fields
 Traditional Storage, Secure Storage, Blockchain, AI security, Cryptography
