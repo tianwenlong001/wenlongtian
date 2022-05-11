@@ -5,7 +5,7 @@
     Xuming Ye, Jiang Tang, Xiaoye Xue, Sainan Liu
 
 2019 Students:  
-    Baidong Li, Qifei Liu, Yusheng Li, Yao Sun
+    Baisong Li, Qifei Liu, Yusheng Li, Yao Sun
 
 2020 Students:  
         Yuqing Geng, Renjiao Duan, Jing Li, Lidu Lou, Juan Zhao, Yiying Yang, Xiao Zhou, Qihao Zhou
