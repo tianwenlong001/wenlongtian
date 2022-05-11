@@ -1,4 +1,5 @@
-### Basic Infomation
+<center> ## Wenlong Tian's Personal Homepage ##</center>
+### **Basic Infomation**
 
 Wenlong Tian 
 
