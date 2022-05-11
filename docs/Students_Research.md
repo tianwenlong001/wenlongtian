@@ -1,4 +1,5 @@
-<center> ##  Student Research Homepage ## </center>
+##  Student Research Homepage ##
+
 ### Current Students Participating in Research
 2018 Students:  
     Xuming Ye, Jiang Tang, Xiaoye Xue, Sainan Liu
