@@ -1,4 +1,4 @@
-##  Student Research Homepage ##
+##  Student Research Homepage
 
 ### Current Students Participating in Research
 2018 Students:  
