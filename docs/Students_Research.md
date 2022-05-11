@@ -1,10 +1,12 @@
 ### Current Students Participating in Research
-2018 Students
+2018 Students:  
     Xuming Ye, Jiang Tang, Xiaoye Xue, Sainan Liu
-2019 Students
+
+2019 Students:  
     Baidong Li, Qifei Liu, Yusheng Li, Yao Sun
-2020 Students
-    Yuqing Geng, Renjiao Duan, Jing Li, Lidu Lou, Juan Zhao, Yiying Yang, Xiao Zhou, Qihao Zhou
+
+2020 Students:  
+        Yuqing Geng, Renjiao Duan, Jing Li, Lidu Lou, Juan Zhao, Yiying Yang, Xiao Zhou, Qihao Zhou
 
 
 ### Brief Invitation
@@ -25,8 +27,9 @@ Traditional Storage, Secure Storage, Blockchain, AI security, Cryptography
 
 
 ### Grants for My Students
-202110555052 面向云存储的相似数据去重研究  国家级大创项目  一万元  （From 2021-06-01 To 2023-06-01）  (Xuming Ye)
-S202110555215 面向海量多源异构数据的学生舆情监控系统  省级大创项目 一万元 （From 2021-06-01 To 2023-06-01）  (Yusheng Li)
+202110555052 面向云存储的相似数据去重研究, 国家级大创项目,  一万元, (From 2021-06-01 To 2023-06-01）  (hosted by: Xuming Ye)  
+
+S202110555215 面向海量多源异构数据的学生舆情监控系统, 省级大创项目, 一万元, (From 2021-06-01 To 2023-06-01）  (hosted by: Yusheng Li)
 
 
 
