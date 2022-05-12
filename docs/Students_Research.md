@@ -2,7 +2,7 @@
 
 ### Current Students Participating in Research
 2018 Students:  
-    Xuming Ye, Jiang Tang, Xiaoye Xue, Sainan Liu
+    Xuming Ye, Jia Tang, Xiaoye Xue, Sainan Liu
 
 2019 Students:  
     Baisong Li, Qifei Liu, Yusheng Li, Yao Sun
