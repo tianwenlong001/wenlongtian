@@ -1,5 +1,8 @@
 ##  Student Research Homepage
 
+My name is Wenlong Tian, and I am an assistant professor at the University of South China. This page overviews my student research groups and their published research works. They are full of passions and strong learning abilities, and I am very proud of them. 
+
+
 ### Current Students Participating in Research
 2018 Students:  
     Xuming Ye, Jia Tang, Xiaoye Xue, Sainan Liu
@@ -12,7 +15,7 @@
 
 
 ### Brief Invitation
-Warmly welcome the undergraduates students to join my research team. You will greatly improve your expression, scientific innovation, programming and teamwork management. The interesting research field are listed here, but not limited in this scope. If you want to join us, please feel freee to contact me ( Email: wenlongtian@usc.edu.cn ) and I will organize an interview for you. Here is my [personal homepage](https://tianwenlong001.github.io/wenlongtian/)
+Warmly welcome the undergraduate students to join my research team. You will significantly improve your expression, scientific innovation, programming, and teamwork management. The exciting research fields are listed here but are not limited to this scope. If you want to join us, please feel free to contact me ( Email: wenlongtian@usc.edu.cn ), and I will organize an interview for you. Here is my [personal homepage](https://tianwenlong001.github.io/wenlongtian/)
 
 ### Interesting Research Fields
 Traditional Storage, Secure Storage, Blockchain, AI security, Cryptography
