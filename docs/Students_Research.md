@@ -1,6 +1,6 @@
 ##  Student Research Homepage
 
-My name is Wenlong Tian, and I am an assistant professor at the University of South China. This page overviews my student research groups and their published research works. They are full of passions and strong learning abilities, and I am very proud of them. 
+My name is [Wenlong Tian](https://tianwenlong001.github.io/wenlongtian/), and I am an assistant professor at the University of South China. This page overviews my student research groups and their published research works. They are full of passions and strong learning abilities, and I am very proud of them. 
 
 
 ### Current Students Participating in Research
