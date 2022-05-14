@@ -5,7 +5,7 @@ My name is [Wenlong Tian](https://tianwenlong001.github.io/wenlongtian/), and I 
 
 ### Current Students Participating in Research
 2018 Students:  
-    Xuming Ye, Jia Tang, Xiaoye Xue, Sainan Liu
+    [Xuming Ye](https://08ming.github.io/), Jia Tang, Xiaoye Xue, Sainan Liu
 
 2019 Students:  
     Baisong Li, Qifei Liu, Yusheng Li, Yao Sun
