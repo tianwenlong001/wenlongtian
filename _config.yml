@@ -2,15 +2,3 @@ theme: jekyll-theme-cayman
 title: Wenlong Tian's Homepage 
 description: University of South China
 
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
-social-network-links:
-  email: "wenlongtian@usc.edu.cn"
-  usc: "https://www.usc.edu.cn"
-  college link: "https://jsjxy.usc.edu.cn"
