@@ -32,7 +32,7 @@ Traditional Storage, Secure Storage, Blockchain, AI security, Cryptography
 
 
 ### Grants Hosted by My Students
-202110555052 面向云存储的相似数据去重研究, 国家级大创项目,  一万元, (From 2021-06-01 To 2023-06-01）  (hosted by: Xuming Ye)  
+202110555052 面向云存储的相似数据去重研究, 国家级大创项目,  一万元, (From 2021-06-01 To 2023-06-01）  (hosted by: [Xuming Ye](https://08ming.github.io/))  
 
 S202110555215 面向海量多源异构数据的学生舆情监控系统, 省级大创项目, 一万元, (From 2021-06-01 To 2023-06-01）  (hosted by: Yusheng Li)
 
