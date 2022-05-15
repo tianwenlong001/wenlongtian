@@ -3,15 +3,6 @@
 My name is [Wenlong Tian](https://tianwenlong001.github.io/wenlongtian/), and I am an assistant professor at the University of South China. This page overviews my student research groups and their published research works. They are full of passions and strong learning abilities, and I am very proud of them. 
 
 
-### Current Students Participating in Research
-2018 Students:  
-    [Xuming Ye](https://08ming.github.io/), Jia Tang, Xiaoye Xue, Sainan Liu
-
-2019 Students:  
-    Baisong Li, Qifei Liu, Yusheng Li, Yao Sun
-
-2020 Students:  
-        Yuqing Geng, Renjiao Duan, Jing Li, Lidu Lou, Juan Zhao, Yiying Yang, Xiao Zhou, Qihao Zhou
 
 
 ### Brief Invitation
