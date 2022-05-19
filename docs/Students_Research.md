@@ -18,7 +18,7 @@ Traditional Storage, Secure Storage, Blockchain, AI security, Cryptography
 2. [Xuming Ye](https://08ming.github.io/), Jia Tang, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu: Fast Variable-Grained Resemblance Data Deduplication For Cloud Storage. IEEE International Conference on Networking, Architecture and Storage, NAS 2021, Riverside, CA, USA, October 24-26, 2021:1-8. (World's Top Academic Conference on Network, Architecture and Storage) [Video](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=225506193&knowledgeId=571993912), [pdf](/wenlongtian/papers/2021NAS.pdf), [Detailed](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=225506193&knowledgeId=571993912), [Code]()
 
 
-3. [Xuming Ye](https://08ming.github.io/)，Xiaoye Xue，**Wenlong Tian***，Yaping Wan，Ruixuan Li, Weijun Xiao, Zhiyong Xu: Chunk Content is not Enough: Chunk-Context  Aware Resemblance Detection with BP-Neural  Network for Deduplication Delta Compression. CoRR abs/2106.01273 (2022) (CCF-A) (TPDS Under Review)
+<!--3. [Xuming Ye](https://08ming.github.io/)，Xiaoye Xue，**Wenlong Tian***，Yaping Wan，Ruixuan Li, Weijun Xiao, Zhiyong Xu: Chunk Content is not Enough: Chunk-Context  Aware Resemblance Detection with BP-Neural  Network for Deduplication Delta Compression. CoRR abs/2106.01273 (2022) (CCF-A) (TPDS Under Review)-->
 
 
 
