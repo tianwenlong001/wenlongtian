@@ -85,12 +85,14 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 2021年, 南华大学教师课堂教学竞赛三等奖，南华大学教务部
 
-### 课时记录
-待更新......
+### Teaching Records
+To be update......
 
 
 ### Funding
+To be update......
 
-[Undergraduated Students Research Team](https://tianwenlong001.github.io/wenlongtian/docs/Students_Research) 
+
+[Undergraduated Students Research & Competition](https://tianwenlong001.github.io/wenlongtian/docs/Students_Research) 
 
 
