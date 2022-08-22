@@ -76,7 +76,20 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 7. Shuoyi Zhao, Ruixuan Li, **Wenlong Tian**, Weijun Xiao, Xinhua Dong, Dongjie Liao, Samee U. Khan, Keqin Li:Divide-and-conquer approach for solving singular value decomposition based on MapReduce. Concurr. Comput. Pract. Exp. 28(2): 331-350 (2016)  [pdf](/papers/2016CCPE.pdf)
 
+### Awards
+2022年，面向数字城市的智能只是服务关键技术及应用，湖南省计算机学会科学技术奖，二等奖
 
+2022年，“党史力行，言传身教，青春无悔，砥砺前行”，南华大学“喜迎党代会 奋进新征程”主题征文比赛，二等奖
+
+2021年，湖南省第17届大学生计算机程序设计竞赛优秀指导教师，湖南省教育厅
+
+2021年, 南华大学教师课堂教学竞赛三等奖，南华大学教务部
+
+### 课时记录
+待更新......
+
+
+### Funding
 
 [Undergraduated Students Research Team](https://tianwenlong001.github.io/wenlongtian/docs/Students_Research) 
 
