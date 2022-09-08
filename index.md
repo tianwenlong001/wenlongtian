@@ -13,7 +13,7 @@ Phone: +86-18202786884
 
 Office: Chongye Building D419, Yumu Campus, Univ. of Shouth China
 
-Teaching Courses: Unified Modelling Language, Computer Networks
+Teaching Courses: Unified Modelling Language, Computer Networks, Discrete Mathematics, Cryptography, Computer Science Introduction, ASP.Net
 
 
 
