@@ -68,6 +68,8 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 3. **Wenlong Tian**, Ruixuan Li, Cheng-Zhong Xu, Zhiyong Xu:Sed-Dedup: An efficient secure deduplication system with data modifications. Concurr. Comput. Pract. Exp. 33(15) (2021) [pdf](/papers/2021CCPE.pdf) 
 
+4. **田纹龙**, 刘征海, 刘洋. 面向专业认证的UML建模语言课程教学改革研究[J]. 教育信息化论坛, 2022, 6(3):3.
+
 4. Huikang Cao, Ruixuan Li, **Wenlong Tian**, Zhiyong Xu, Weijun Xiao:Blockchain-based accountability for multi-party oblivious RAM. J. Parallel Distributed Comput. 137: 224-237 (2020) (co-first Author) [pdf](/papers/2020JPDC_ORAM.pdf)
 
 5. Dongdong Yue, Ruixuan Li, Yan Zhang, **Wenlong Tian**, Yongfeng Huang:Blockchain-based verification framework for data integrity in edge-cloud storage. J. Parallel Distributed Comput. 146: 1-14 (2020) [pdf](/papers/2020_JPDC_Blockchain.pdf)
@@ -85,12 +87,37 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 2021年, 南华大学教师课堂教学竞赛三等奖，南华大学教务部
 
+2018, IEEE TrustCom 2018 Best Paper Award（最佳论文奖）, IEEE Computer Socie ty, A Practical Accountability Scheme for Oblivious RAM in Cloud Storage, 其他, 2018(Huikang Cao; Ruixuan Li; **Wenlong Tian**; Zhiyong Xu; Weijun Xiao)
+
 ### Teaching Records
-To be update......
+| 课程年份 | 课程名称 | 讲授班级 | 学时 |
+| ----    | ----    | ----   | ----|
+| 2020年春季 |  UML建模语言| 2018级 软工01-04班，软卓01班，软智01，02班，船本软件01-03班| 32学时| 
+| 2020年秋季 |  计算机网络原理L|  19级软留01班| 56学时| 
+| 2020年秋季| 新生入学教育| 20级计类01-02班| 6学时| 
+| 2021年春季 | UML建模语言| 2019级软工03-04班，软卓01班，软智01-02班| 32学时| 
+| 2021年春季| UML建模语言L| 19级软留01班| 32学时| 
+| 2021年秋季| 计算机网络原理L| 20级软留01班 | 56学时| 
+| 2021年秋季| ASP.Net程序设计L| 19级软留01班| 32学时| 
+| 2021年秋季| 计算机科学导论| 船本21级软工01-03班| 40学时| 
+| 2022年春季| UML建模语言L| 20级软留01班| 32学时| 
+| 2022年秋季| ASP.Net程序设计L| 20级软留01班| 32学时| 
+| 2022年秋季| 计算机网络原理L| 21级软留01班| 56学时| 
 
 
-### Funding
-To be update......
+
+### Patents 
+**田纹龙**; 何婷婷; 叶旭明; 薛晓晔; 李瑞轩; 万亚平; 欧阳纯萍; 刘永彬; 刘征海; 刘洋 ; 一种云存 储相似数据检测方法和系统, 2022-01-21, 中国, 202210070755.3 (专专利利)
+
+**田纹龙**; 刘骐菲; 耿雨晴; 李柏松; 万亚平; 欧阳纯萍; 李跃; 刘洋; 何婷婷 ; 一种基于相似数据检 测的云存储冗余数据预测方法和设备, 2022-02-25, 中国, 202210182503.X
+
+**田纹龙**; 李柏松; 李宇圣; 万亚平; 欧阳纯萍; 刘永彬; 李跃 ; 一种基于元语义嵌入的云存储相似数 据检测方法和系统, 2022-01-21, 中国, 202210068769.1
+
+李瑞轩; 张瑜; 李玉华; 辜希武; 李水祥; **田纹龙** ; 一种区块链和云存储环境下的数据安全共享方法 和系统, 2020-07-07, 中国, 202010650801.8
+
+李瑞轩; 孙鳗; 辜希武; 李玉华; 刘奇; 李水祥; **田纹龙** ; 一种移动边缘计算环境下起源数据的加密 检索方法与系统, 2020-07-13, 中国, 202010671351.0
+
+李瑞轩; 黄凤玲; 李玉华; 辜希武; 杨琪; **田纹龙**; 王号召; 韩洪木 ; 一种分布式的互联网重要地址 空间检索系统, 2017-8-22, 中国, 201710339031.3
 
 
 [Undergraduated Students Research & Competition](https://tianwenlong001.github.io/wenlongtian/docs/Students_Research) 
