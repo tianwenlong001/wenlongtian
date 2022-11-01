@@ -81,7 +81,7 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 7. Shuoyi Zhao, Ruixuan Li, **Wenlong Tian**, Weijun Xiao, Xinhua Dong, Dongjie Liao, Samee U. Khan, Keqin Li:Divide-and-conquer approach for solving singular value decomposition based on MapReduce. Concurr. Comput. Pract. Exp. 28(2): 331-350 (2016)  [pdf](/papers/2016CCPE.pdf)
 
 ### Awards
-2022年，面向数字城市的智能只是服务关键技术及应用，湖南省计算机学会科学技术奖，二等奖
+2022年，面向数字城市的智能知识服务关键技术及应用，湖南省计算机学会科学技术奖，二等奖
 
 2022年，“党史力行，言传身教，青春无悔，砥砺前行”，南华大学“喜迎党代会 奋进新征程”主题征文比赛，二等奖
 
@@ -110,7 +110,7 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 
 ### Patents 
-**田纹龙**; 何婷婷; 叶旭明; 薛晓晔; 李瑞轩; 万亚平; 欧阳纯萍; 刘永彬; 刘征海; 刘洋 ; 一种云存 储相似数据检测方法和系统, 2022-01-21, 中国, 202210070755.3 (专专利利)
+**田纹龙**; 何婷婷; 叶旭明; 薛晓晔; 李瑞轩; 万亚平; 欧阳纯萍; 刘永彬; 刘征海; 刘洋 ; 一种云存 储相似数据检测方法和系统, 2022-01-21, 中国, 202210070755.3 (专利)
 
 **田纹龙**; 刘骐菲; 耿雨晴; 李柏松; 万亚平; 欧阳纯萍; 李跃; 刘洋; 何婷婷 ; 一种基于相似数据检 测的云存储冗余数据预测方法和设备, 2022-02-25, 中国, 202210182503.X
 

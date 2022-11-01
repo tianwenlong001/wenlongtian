@@ -27,7 +27,7 @@
 
 
 5.Dongdong Yue, Ruixuan Li, Yan Zhang, **Wenlong Tian**, Chengyi Peng: Blockchain Based Data Integrity Verification in P2P Cloud Storage. ICPADS 2018: 561-568.
-
+v
 6.Huikang Cao, Ruixuan Li, **Wenlong Tian**, Zhiyong Xu, Weijun Xiao: A Practical Accountability Scheme for Oblivious RAM in Cloud Storage. TrustCom/BigDataSE 2018: 397-402. ( Best Paper Award)
 
 7.**Wenlong Tian**, Ruixuan Li, Zhiyong Xu, Weijun Xiao: Does the content defined chunking really solve the local boundary shift problem? IPCCC 2017: 1-8. [pdf](/papers/2017IPCCC.pdf)
