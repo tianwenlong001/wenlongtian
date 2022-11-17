@@ -4,7 +4,6 @@ My name is [Wenlong Tian](https://tianwenlong001.github.io/wenlongtian/), and I 
 
 
 
-
 ### Brief Invitation
 Warmly welcome the undergraduate students to join my research team. You will significantly improve your abilities in expression, scientific innovation, programming, and teamwork management. The exciting research fields are listed here but are not limited to this scope. If you want to join us, please feel free to contact me ( Email: wenlongtian@usc.edu.cn ), and I will organize an interview for you. Here is my [personal homepage](https://tianwenlong001.github.io/wenlongtian/)
 
