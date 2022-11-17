@@ -1,6 +1,6 @@
 ##  Student Research Homepage
 
-My name is [Wenlong Tian](https://tianwenlong001.github.io/wenlongtian/), and I am an assistant professor at the University of South China. This page overviews my student research groups and their published research works. They are full of passions and strong learning abilities, and I am very proud of them. 
+My name is [Wenlong Tian](https://tianwenlong001.github.io/wenlongtian/), and I am an assistant professor at the University of South China. This page overviews my student research groups and their published research works. These Students are full of passions and strong learning abilities, and I am very proud of them. 
 
 
 
@@ -12,9 +12,9 @@ Warmly welcome the undergraduate students to join my research team. You will sig
 Traditional Storage, Secure Storage, Blockchain, AI security, Cryptography
 
 ### Published Papers
-1. Yuqing Geng,**Wenlong Tian***, Ruixuan Li, Weijun Xiao, Chunping Ouyang, Yongbing Liu, Qifei Liu, Jing Li, Xuming Ye and Zhiyong Xu， Context-aware Resemblance Detection based Deduplication Ratio Prediction for Cloud Storage. The 9th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies BDCAT 2022,Vancouver, Washington, USA, December 6-9, 2022.
+1. Yuqing Geng,**Wenlong Tian***, Ruixuan Li, Weijun Xiao, Chunping Ouyang, Yongbing Liu, Qifei Liu, Jing Li, Xuming Ye and Zhiyong Xu， Context-aware Resemblance Detection based Deduplication Ratio Prediction for Cloud Storage. The 9th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies BDCAT 2022,Vancouver, Washington, USA, December 6-9, 2022. (upcoming)
 
-2. Baisong Li, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhongming Fu, Xuming Ye, Renjiao Duan, Yusheng Li, Zhiyong Xu: Cross-domain Resemblance Detection based on Meta-learning for Cloud Storage. The 41st IEEE -- International Performance Computing and Communications Conference, IPCCC, 2022, Austin, TX, USA, November 11-13, 2022.[video](),[PDF],[Full Version],[Detailed],[Code]()
+2. Baisong Li, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhongming Fu, Xuming Ye, Renjiao Duan, Yusheng Li, Zhiyong Xu: Cross-domain Resemblance Detection based on Meta-learning for Cloud Storage. The 41st IEEE -- International Performance Computing and Communications Conference, IPCCC, 2022, Austin, TX, USA, November 11-13, 2022.[video](),[PDF],[Full Version],[Detailed],[Code]() (upcoming)
 
 3. [Xuming Ye](https://08ming.github.io/), Xiaoye Xue, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu, Yaping Wan: Chunk Content is not Enough: Chunk-Context Aware Resemblance Detection for Deduplication Delta Compression. 31st Data Compression Conference, DCC 2022, Snowbird, UT, USA, March 22-25, 2022. （CCF-B, Accepted） [video](https://sigport.org/documents/chunk-content-not-enough-chunk-context-aware-resemblance-detection-deduplication-delta) , [PDF](/wenlongtian/papers/2022DCC.pdf) , [Full Version](https://arxiv.org/abs/2106.01273), [Detailed](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=225506193&knowledgeId=571996233), [Code](https://github.com/08ming/CARD)
 
