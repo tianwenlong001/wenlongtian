@@ -21,8 +21,8 @@
 
 
 ### Activities
-2022-至今     NTU Postdoc\\
-2022-至今     南华大学，承担软件工程系系主任\\
+2022.02-至今     NTU Postdoc\\
+2022.11-至今     南华大学，承担软件工程系系主任\\
 2022        BDCAT conference, Vancouver, Washington, USA,December 6-9 \\
 2022         IPCCC conference, Austin, Texas, USA, November 11-13 \\
 2022         DCC conference, Snowbird, UT, USA,   March 22-24\\
