@@ -70,23 +70,25 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 1. **Wenlong Tian**, Qi Liu, Ruixuan Li, Zhiyong  Xu,Yan  Zhang, Yongfeng Huang. A Blockchain-based Secure Searching Strategy for Metadata in Mobile Edge Computing. IEEE Internet of Things Journal, doi:10.1109/JIOT.2023.3282043 
 
-2. **Wenlong Tian**, Ruixuan Li, Zhiyong Xu, Weijun Xiao. Loco-Store Locality-Based Oblivious Data  Storage. IEEE Transactions on Dependable and Secure Computing, 2022, 19(2): 1395-1406 (2022) [pdf](/papers/2022TDSC.pdf)
+2. 阳智欢，田纹龙，何婷婷，叶旭明，唐佳，上下文语义嵌入的变粒度云存储相似数据去重技术，计算机技术与发展, 2024（已录用）
 
-3. **Wenlong Tian**, Ruixuan Li,  Zhiyong Xu: TSS: A Two-party Secure Server-Aid Chunking Algorithm. Concurrency and Computation: Practice and Experience, 2022, 34(12):e6577 
+3. **Wenlong Tian**, Ruixuan Li, Zhiyong Xu, Weijun Xiao. Loco-Store Locality-Based Oblivious Data  Storage. IEEE Transactions on Dependable and Secure Computing, 2022, 19(2): 1395-1406 (2022) [pdf](/papers/2022TDSC.pdf)
 
-4. Zhigang Xu, Shiguang Zhang, Hongmu Han, Xinhua Dong, Zhiqiang Zheng, Haitao Wang, **Wenlong Tian**, Blockchain-Aided Searchable Encryption-Based Two-Way Attribute Access Control Research, Security and Communication Networks, (Accepted)
+4. **Wenlong Tian**, Ruixuan Li,  Zhiyong Xu: TSS: A Two-party Secure Server-Aid Chunking Algorithm. Concurrency and Computation: Practice and Experience, 2022, 34(12):e6577 
 
-5. **Wenlong Tian**, Ruixuan Li, Cheng-Zhong Xu, Zhiyong Xu:Sed-Dedup: An efficient secure deduplication system with data modifications. Concurrency and Computation: Practice and Experience, 2021, 33(15):e5350 [pdf](/papers/2021CCPE.pdf) 
+5. Zhigang Xu, Shiguang Zhang, Hongmu Han, Xinhua Dong, Zhiqiang Zheng, Haitao Wang, **Wenlong Tian**, Blockchain-Aided Searchable Encryption-Based Two-Way Attribute Access Control Research, Security and Communication Networks, (Accepted)
 
-6. **田纹龙**, 刘征海, 刘洋. 面向专业认证的UML建模语言课程教学改革研究[J]. 教育信息化论坛, 2022, 6(3):3.
+6. **Wenlong Tian**, Ruixuan Li, Cheng-Zhong Xu, Zhiyong Xu:Sed-Dedup: An efficient secure deduplication system with data modifications. Concurrency and Computation: Practice and Experience, 2021, 33(15):e5350 [pdf](/papers/2021CCPE.pdf) 
 
-7. Huikang Cao, Ruixuan Li, **Wenlong Tian**, Zhiyong Xu, Weijun Xiao:Blockchain-based accountability for multi-party oblivious RAM. Journal of Parallel and Distributed Computing, 2020, 137:224-237. (co-first Author) [pdf](/papers/2020JPDC_ORAM.pdf)
+7. **田纹龙**, 刘征海, 刘洋. 面向专业认证的UML建模语言课程教学改革研究[J]. 教育信息化论坛, 2022, 6(3):3.
 
-8. Dongdong Yue, Ruixuan Li, Yan Zhang, **Wenlong Tian**, Yongfeng Huang:Blockchain-based verification framework for data integrity in edge-cloud storage. Journal of Parallel and Distributed Computing, 2020, 146:1-14 [pdf](/papers/2020_JPDC_Blockchain.pdf)
+8. Huikang Cao, Ruixuan Li, **Wenlong Tian**, Zhiyong Xu, Weijun Xiao:Blockchain-based accountability for multi-party oblivious RAM. Journal of Parallel and Distributed Computing, 2020, 137:224-237. (co-first Author) [pdf](/papers/2020JPDC_ORAM.pdf)
 
-9. 何婷婷，**田纹龙**: 云环境下教师学习共同体的隐私保护--基于ORAM与群签名的融合技术. 现代教育技术, 2019, 000(001):79-85. (CSSCI)
+9. Dongdong Yue, Ruixuan Li, Yan Zhang, **Wenlong Tian**, Yongfeng Huang:Blockchain-based verification framework for data integrity in edge-cloud storage. Journal of Parallel and Distributed Computing, 2020, 146:1-14 [pdf](/papers/2020_JPDC_Blockchain.pdf)
 
-10. Shuoyi Zhao, Ruixuan Li, **Wenlong Tian**, Weijun Xiao, Xinhua Dong, Dongjie Liao, Samee U. Khan, Keqin Li:Divide-and-conquer approach for solving singular value decomposition based on MapReduce. Concurrency and Computation: Practice and Experience, 2016, 28(2):331-350  [pdf](/papers/2016CCPE.pdf)
+10. 何婷婷，**田纹龙**: 云环境下教师学习共同体的隐私保护--基于ORAM与群签名的融合技术. 现代教育技术, 2019, 000(001):79-85. (CSSCI)
+
+11. Shuoyi Zhao, Ruixuan Li, **Wenlong Tian**, Weijun Xiao, Xinhua Dong, Dongjie Liao, Samee U. Khan, Keqin Li:Divide-and-conquer approach for solving singular value decomposition based on MapReduce. Concurrency and Computation: Practice and Experience, 2016, 28(2):331-350  [pdf](/papers/2016CCPE.pdf)
 
 ### Awards
 2023年，低资源下医疗文本因果知识发现，湖南省计算机学会科学技术奖，二等奖
@@ -134,6 +136,8 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 李瑞轩; 黄凤玲; 李玉华; 辜希武; 杨琪; **田纹龙**; 王号召; 韩洪木 ; 一种分布式的互联网重要地址 空间检索系统, 2017-8-22, 中国, 201710339031.3
 
+### Software Copyright 
+李柏松，李宇圣，田纹龙， 基于知识图谱语义查询的航班集成系统 V1.0, 2022年04月07日，登记号2022SR0442094
 
 [Undergraduated Students Research & Competition](https://tianwenlong001.github.io/wenlongtian/docs/Students_Research) 
 
