@@ -21,6 +21,9 @@
 
 
 ### Activities
+2023         中国密码学年会，广州，December 8-10\\
+2023         ASK, The 10th Asian-workshop on Symmetric Key Cryptography, Guangzhou, China, December, 3rd\\
+2023         TrustCOM conference, Exeter, UK, November 1-3\\
 2022.02-至今     NTU Postdoc\\
 2022.11-至今     南华大学，承担软件工程系系主任\\
 2022         BDCAT conference, Vancouver, Washington, USA,December 6-9 \\

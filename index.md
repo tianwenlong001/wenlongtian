@@ -38,7 +38,7 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 ### Reviews
 
-​		TPDS, TOS, JPDC, CCPE, TrustCom, IPCCC
+​		TPDS, TOS, JPDC, CCPE, TrustCom, IPCCC, TSC
 
 ### Teaching
 
@@ -122,6 +122,8 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 | 2022年春季| UML建模语言L| 20级软留01班| 32学时| 
 | 2022年秋季| ASP.Net程序设计L| 20级软留01班| 32学时| 
 | 2022年秋季| 计算机网络原理L| 21级软留01班| 56学时|
+| 2023年春季| UML建模语言L| 21级软留01班| 32学时| 
+| 2023年秋季| ASP.Net程序设计L| 21级软留01班| 32学时| 
 
 
 
