@@ -69,7 +69,7 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 11. **Wenlong Tian**, Ruixuan Li, Zhiyong Xu, Weijun Xiao: Does the content defined chunking really solve the local boundary shift problem? IPCCC 2017: 1-8. [pdf](/papers/2017IPCCC.pdf)
 
 ### Journal Papers
-1. **Wenlong Tian**, Jian Guo, Zhiyong  Xu, Ruixuan Li, Weijun Xiao. PEO-Store: Delegation-Proof based Oblivious Storage with Secure Redundancy Elimination.  IEEE Transactions on Dependable and Secure Computing, 2024.
+1. **Wenlong Tian**, Jian Guo, Zhiyong  Xu, Ruixuan Li, Weijun Xiao. PEO-Store: Delegation-Proof based Oblivious Storage with Secure Redundancy Elimination.  IEEE Transactions on Dependable and Secure Computing, 2024, doi:10.1109/TDSC.2024.3361450.
 
 2. **Wenlong Tian**, Qi Liu, Ruixuan Li, Zhiyong  Xu,Yan  Zhang, Yongfeng Huang. A Blockchain-based Secure Searching Strategy for Metadata in Mobile Edge Computing. IEEE Internet of Things Journal, 2023, 10(22): 19795-19809 (2023), doi:10.1109/JIOT.2023.3282043 
 
