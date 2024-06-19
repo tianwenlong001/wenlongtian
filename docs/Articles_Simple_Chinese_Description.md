@@ -1,5 +1,17 @@
 ### Conference Papers
-1. Yuqing Geng,**Wenlong Tian***, Ruixuan Li, Weijun Xiao, Chunping Ouyang, Yongbing Liu, Qifei Liu, Jing Li, Xuming Ye and Zhiyong Xu， Context-aware Resemblance Detection based Deduplication Ratio Prediction for Cloud Storage. The 9th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies BDCAT 2022,Vancouver, Washington, USA, December 6-9, 2022. 
+1. With the increasing number of big data applications,  large amounts of valuable data are distributed in different organizations or regions. Federated Learning (FL) enables collaborative  model training without sharing sensitive data and is widely  used in AI medical diagnosis, economy, and autonomous driving  scenarios. However, it still leaks the privacy from the gradient exchange in federated learning. What’s worse, state-of-the-art work,  such as Batchcrypt, still suffers from computational overhead due  to a considerable amount of computation and communication  costs caused by homomorphic encryption. Therefore, we propose  a novel symmetric key-based homomorphic encryption scheme,  Sym-Fed. To unleash the power of symmetric encryption in  federated learning, we combine random masking with symmetric  encryption and keep the homomorphic property during the  gradient exchange in the federated learning process. Finally,  the security analysis and experimental results on real workloads  show that our design achieves performance improvement 6× to  668× and reduces the communication overhead 1.2× to 107×  compared with the state-of-the-art work, BatchCrypt and FATE, without model accuracy degradation and security compromise.
+
+>随着大数据应用的不断增多，大量有价值的数据分布在不同的组织或地区。联邦学习（FL）可以在不共享敏感数据的情况下实现协作模型训练，广泛应用于人工智能医疗诊断、经济和自动驾驶场景。然而，它仍然泄露了联邦学习中梯度交换的隐私。更糟糕的是，由于同态加密带来的大量计算和通信成本，Batchcrypt 等最先进的工作仍然受到计算开销的影响。因此，我们提出了一种新颖的基于对称密钥的同态加密方案，Sym-Fed。为了在联邦学习中发挥对称加密的威力，我们将随机掩码与对称加密相结合，并在联邦学习过程中的梯度交换过程中保持同态性。最后，安全分析和实际工作负载的实验结果表明，与最先进的工作 BatchCrypt 和 FATE 相比，我们的设计实现了 6 倍至 668 倍的性能提升，并减少了 1.2 倍至 107 倍的通信开销，且无需模型精度下降和安全性妥协。
+
+
+>This work is supported by the State Scholarship Fund
+of China for studying abroad under grants 202108430055,
+Natural Science Foundation of Hunan Province of China
+under grant 2021JJ40468, 2022JJ50153, 2022JJ30495.Hunan
+Province research foundation under grant 22B0437, Hunan Province Educational Science Planning Project under grant XJK23AJD014, National Training Program of Innovation and Entrepreneurship for Undergraduates under grants S202310555275, S202310555276,D202305161151302334, D202305172303130913.
+
+2. Yuqing Geng,**Wenlong Tian***, Ruixuan Li, Weijun Xiao, Chunping Ouyang, Yongbing Liu, Qifei Liu, Jing Li, Xuming Ye and Zhiyong Xu， Context-aware Resemblance Detection based Deduplication Ratio Prediction for Cloud Storage. The 9th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies BDCAT 2022,Vancouver, Washington, USA, December 6-9, 2022. 
+
 > 随着云存储的普及，人们更倾向于将自己的数据外包到云端，以获得更好的灵活性和可靠性。毫无疑问，这些数据中存在很多冗余。然而，高端带去去重存储需要进行大量计算，并增加了数据管理的复杂性。潜在的客户需要了解他们外包数据中的冗余比例，以决定是否值得采用高端带去重存储。因此，许多研究人员之前尝试预测冗余比例。然而，现有的机制忽视了包含许多重复数据的相似块之间的冗余比例。虽然相似性检测，即在相似数据中检测重复部分，已成为一个热门问题，但由于无法接受的计算成本，它几乎不被应用于传统的去重比例估算。因此，我们在预测范围和响应时间方面分析了去重比例预测的局限性和挑战，并进一步提出了一种新颖的预测方案。通过利用上下文感知的相似性检测和置信区间理论，我们的方法可以在去重比例预测方面实现更快的估算速度和更高的准确性，相比于最先进的方法。最后，实验结果表明我们的方法可以在真实工作负载上高效、有效地估计相似块中的重复块和冗余数据的比例。
 
 >This work is supported by the State Scholarship Fund of  China for studying abroad under grants 202108430055, the  National Natural Science Foundation of China under grants  U1836204, Natural Science Foundation of Hunan Province  of China under grant 2021JJ40468, 2022JJ30495, Hunan  Province research foundation under grant 20B515, National  Training Program of Innovation and Entrepreneurship for  Undergraduates under grants 202110555052, S202110555215.
@@ -42,7 +54,18 @@
 10. **Wenlong Tian**, Ruixuan Li, Zhiyong Xu, Weijun Xiao: Does the content defined chunking really solve the local boundary shift problem? IPCCC 2017: 1-8. [pdf](/papers/2017IPCCC.pdf)
 
 ### Journal Papers
-1. **Wenlong Tian**, Qi Liu, Ruixuan Li, Zhiyong  Xu,Yan  Zhang, Yongfeng Huang. A Blockchain-based Secure Searching Strategy for Metadata in Mobile Edge Computing. IEEE Internet of Things Journal, doi:10.1109/JIOT.2023.3282043 
+1. Recently, Oblivious Storage has been proposed to prevent  privacy leakage from user access patterns, which obfuscates and  makes it computationally indistinguishable from the random sequences  by fake accesses and probabilistic encryption. The same data exhibits  distinct ciphertexts. Thus, it seriously impedes cloud providers’ efforts to  improve storage utilization to remove user redundancy, which has been  widely used in the existing cloud storage scenario. Inspired by the successful adoption of removing duplicate data in cloud storage, we attempt  to integrate obliviousness, remove redundancy, and propose a practical  oblivious storage, PEO-Store. Instead of fake accesses, introducing  delegates breaks the mapping link between a valid access pattern and  a specific client. The cloud interacts only with randomly authorized  delegates. This design leverages non-interactive zero-knowledge-based  redundancy detection, discrete logarithm problem-based key sharing,  and secure time-based delivery proof. These components collectively  protect access pattern privacy, accurately eliminate redundancy, and  prove the data delivery among delegates and the cloud. Theoretical  proof demonstrates that, in our design, the probability of identifying  the valid access pattern with a specific client is negligible. Experimental results show that PEO-Store outperforms state-of-the-art methods,  achieving an average throughput of up to 3 times faster and saving 74%  of storage space.
+
+>最近，人们提出了Oblivious Storage来防止用户访问模式的隐私泄露，这种模式通过虚假访问和概率加密来混淆并使其在计算上无法与随机序列区分开来。相同的数据呈现出不同的密文。因此，这严重阻碍了云提供商提高存储利用率以消除用户冗余的努力，而这在现有的云存储场景中已被广泛使用。受到云存储中删除重复数据的成功采用的启发，我们尝试整合遗忘性，去除冗余，并提出了一种实用的遗忘性存储——PEO-Store。引入委托不是假访问，而是打破了有效访问模式和特定客户端之间的映射链接。云仅与随机授权的代表进行交互。该设计利用非交互式基于零知识的冗余检测、基于离散对数问题的密钥共享以及基于时间的安全传递证明。这些组件共同保护访问模式隐私，准确消除冗余，并证明代表和云之间的数据传递。理论证明表明，在我们的设计中，识别特定客户端的有效访问模式的概率可以忽略不计。实验结果表明，PEO-Store 的性能优于最先进的方法，平均吞吐量提高了 3 倍，并节省了 74% 的存储空间。
+
+
+
+>This work was supported by the Hunan Province research foundation [grant numbers 22B0437]; Ministry of
+Education in Singapore [grant number RG93/23]; Hunan
+Province Educational Science Planning Project [grant numbers JD231459], State Scholarship Fund of China for studying abroad [grant number 202108430055]; Natural Science Foundation of Hunan Province of China [grant numbers 2022JJ30495, 2022JJ50153].
+
+
+2. **Wenlong Tian**, Qi Liu, Ruixuan Li, Zhiyong  Xu,Yan  Zhang, Yongfeng Huang. A Blockchain-based Secure Searching Strategy for Metadata in Mobile Edge Computing. IEEE Internet of Things Journal, doi:10.1109/JIOT.2023.3282043 
 
 > 随着智能设备的普及，移动边缘计算技术能够有效处理物联网（IoT）中的大量数据。移动边缘计算产生的元数据在大规模数据管理中起着重要作用。然而，它也包含了大量用户隐私信息。传统的隐私保护解决方案要么牺牲元数据的可用性，要么与分布式环境不兼容。为了解决这个困境，我们提出了一种基于区块链的移动边缘计算元数据安全搜索策略（BSSMeta）。通过在区块链上利用轻量级代理重加密方案和分散式密钥生成方法，BSSMeta保持了元数据搜索任务的安全性。同时，为了提高搜索和上传过程的效率，我们提出了主从智能合约方法和缓冲上传策略。作为副产品，BSSMeta还支持在多用户环境中搜索元数据，并为用户提供对元数据的访问控制。最后，我们对BSSMeta进行了安全性分析，并在Hyperledger Fabric平台上实现了原型。对各种工作负载进行的实验结果表明，BSSMeta在安全性和效率方面是可行和灵活的。
 
