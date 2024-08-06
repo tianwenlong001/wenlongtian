@@ -41,3 +41,45 @@
 2019年   厦门区块链会议 \\
 2019年   湖南衡阳南岳人工智能教育专委会
 
+
+
+
+The team's extensive research spans cloud storage security, privacy protection, and blockchain security. 
+
+1. **Privacy Protection with Oblivious RAM (ORAM):** Addressing privacy leaks due to monitored access patterns, researchers proposed a solution using locality-based oblivious data storage. Techniques like unintentional random access and data eviction algorithms were introduced, along with a scheme for accountability using group signatures. These advancements significantly enhanced efficiency and privacy in tracing malicious users within cloud storage.
+
+   [1]Wenlong Tian, Ruixuan Li, Zhiyong Xu, Weijun Xiao. Loco-Store Locality-Based Oblivious Data Storage. IEEE Transactions on Dependable and Secure Computing, 2022, 19(2): 1395-1406 （CCF-A） 
+
+   [2]Huikang Cao, Ruixuan Li, Wenlong Tian, Zhiyong Xu, Weijun Xiao:Blockchain-based accountability for multi-party oblivious RAM. Journal of Parallel and Distributed Computing, 2020, 137:224-237 (CCF-B) 
+
+   [3]Huikang Cao, Ruixuan Li, Wenlong Tian, Zhiyong Xu, Weijun Xiao. A Practical Accountability Scheme for Oblivious RAM in Cloud Storage. 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications (TrustCom 2018), New York, NY, USA, August 1-3, 2018, pp 397-402. （CCF-C）
+
+2. **High-Performance Secure Deduplication for Cloud Storage:** Researchers tackled issues in secure deduplication algorithms for cloud storage, focusing on security concerns, key management, and metadata overhead. Their work introduced methods like feedback-adjusted chunking, two-party secure deduplication, and innovative encoding approaches, providing a robust foundation for secure deduplication in massive, heterogeneous data environments.
+
+   [1]Wenlong Tian, Ruixuan Li, Zhiyong Xu: TSS: A Two-party Secure Server-Aid Chunking Algorithm. Concurrency and Computation: Practice and Experience, 2022, 34(12):e6577  (CCF-C) 
+
+   [2]Wenlong Tian, Ruixuan Li, Weijun Xiao, Zhiyong Xu: PTS-Dep: A High-Performance Two-Party Secure Deduplication for Cloud Storage. 20th IEEE International Conference on High Performance Computing and Communications, 2018: 700-707 （CCF-C） 
+
+   [3]Wenlong Tian, Ruixuan Li, Zhiyong Xu, Weijun Xiao: Does the content defined chunking really solve the local boundary shift problem? 36th IEEE International Performance Computing and Communications Conference, IPCCC 2017, San Diego, CA, USA, December 10-12, 2017: 1-8 (CCF-C) 
+
+   [4]Wenlong Tian, Ruixuan Li, Cheng-Zhong Xu, Zhiyong Xu:Sed-Dedup: An efficient secure deduplication system with data modifications. Concurrency and Computation: Practice and Experience, 2021, 33(15):e5350  (CCF-C)
+
+3. **AI-driven Resemblance Detection for Cloud Storage:** In the realm of AI-driven Resemblance Detection for Cloud Storage, the focus of our work revolved around optimizing redundancy prediction and proposing the MetaContext solution for cross-domain similarity detection challenges. Introducing a novel predictive approach incorporating context-aware similarity detection and confidence interval theory enhanced the speed and accuracy of redundancy estimation in cloud storage. Additionally, the MetaContext scheme, amalgamating block-context-aware models and meta-learning principles, effectively addressed domain mismatch issues in existing similarity detection models.
+
+   [1]Xuming Ye, Xiaoye Xue, Wenlong Tian, Ruixuan Li, Weijun Xiao, Zhiyong Xu, Yaping Wan: Chunk Content is not Enough: Chunk-Context Aware Resemblance Detection for Deduplication Delta Compression. 31st Data Compression Conference, DCC 2022, Snowbird, UT, USA, March 22-25 （CCF-B） 
+
+   [2]Baisong Li, Wenlong Tian, Ruixuan Li, Weijun Xiao, Zhongming Fu, Xuming Ye, Renjiao Duan, Yusheng Li, Zhiyong Xu: Cross-domain Resemblance Detection based on Meta-learning for Cloud Storage. The 41st IEEE International Performance Computing and Communications Conference, IPCCC, 2022, Austin, TX, USA, November 11-13, pp.374-379 (CCF-C)
+
+   [3]Yuqing Geng,Wenlong Tian, Ruixuan Li, Weijun Xiao, Chunping Ouyang, Yongbing Liu, Qifei Liu, Jing Li, Xuming Ye and Zhiyong Xu，Context-aware Resemblance Detection based Deduplication Ratio Prediction for Cloud Storage. The 9th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies BDCAT 2022,Vancouver, Washington, USA, December 6-9, pp: 24-32 
+
+   [4]Xuming Ye, Jia Tang, Wenlong Tian, Ruixuan Li, Weijun Xiao, Zhiyong Xu: Fast Variable-Grained Resemblance Data Deduplication For Cloud Storage. IEEE International Conference on Networking, Architecture and Storage, NAS 2021, Riverside, CA, USA, October 24-26, 2021:1-8 
+
+4. **Security Audit in Cloud-Blockchain Integration:** The research addressed accountability issues in cloud storage by integrating blockchain for tamper-proof storage. This included a multi-party accountability platform and a blockchain-based verification framework for data integrity in edge-cloud storage, ensuring reliable data integrity verification in scenarios lacking trusted third-party audits.
+
+   [1]Huikang Cao, Ruixuan Li, Wenlong Tian, Zhiyong Xu, Weijun Xiao:Blockchain-based accountability for multi-party oblivious RAM. Journal of Parallel and Distributed Computing, 2020, 137: 224-237  (CCF-B)   
+
+   [2]Wenlong Tian, Qi Liu, Ruixuan Li, Zhiyong Xu,Yan Zhang, Yongfeng Huang. A Blockchain-based Secure Searching Strategy for Metadata in Mobile Edge Computing. IEEE Internet of Things Journal, doi:10.1109/JIOT.2023.3282043 (CCF-C)   
+
+   [3]Jinzhao Wang, Wenlong Tian, Ruixuan Li, Junwei Tang, Xuming Ye, Yaping Wan, Zhiyong Xu, Sym-Fed: Unleashing the Power of Symmetric Encryption in Cross-Silo Federated Learning. The 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2023, Exeter, United Kingdom, November 1-3, 2023. (CCF-C)   
+
+
