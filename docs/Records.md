@@ -21,6 +21,10 @@
 
 
 ### Activities
+2024         华中科技大学计算机学院交流学习，湖北，武汉， August 1-9
+2024         中国计算机设计大赛，软件应用与开发，济南决赛赛区，July 22-26\\
+2024         现代教育技术，四川，成都，May 17-19\\
+2024         MICCIS(第二届移动互联网、云计算与信息安全国际会议） 湖南，长沙， April 19-21\\
 2023         中国密码学年会，广州，December 8-10\\
 2023         ASK, The 10th Asian-workshop on Symmetric Key Cryptography, Guangzhou, China, December, 3rd\\
 2023         TrustCOM conference, Exeter, UK, November 1-3\\
