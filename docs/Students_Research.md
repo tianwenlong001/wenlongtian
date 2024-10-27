@@ -22,6 +22,8 @@ Traditional Storage, Secure Storage, Blockchain, AI security, Cryptography
 
 5. [Xuming Ye](https://08ming.github.io/), Jia Tang, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu: Fast Variable-Grained Resemblance Data Deduplication For Cloud Storage. IEEE International Conference on Networking, Architecture and Storage, NAS 2021, Riverside, CA, USA, October 24-26, 2021:1-8. (World's Top Academic Conference on Network, Architecture and Storage) [Video](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=225506193&knowledgeId=571993912), [pdf](/wenlongtian/papers/2021NAS.pdf), [Detailed](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=225506193&knowledgeId=571993912), [Code](https://github.com/08ming/NAS)
 
+6. Xin Liu, Zhenxi Tian, Wenlong Tian, and Zhiyong Xu, DNA-PRIME: Advanced DNA Sequence Compression through Enhanced Feature Fusion and Weight Hashing, The 31th International Conference on Neural Information Processing (ICONIP), December 2-6, 2024, Auckland, New Zealand
+
 
 
 ### Grants Hosted by My Students
