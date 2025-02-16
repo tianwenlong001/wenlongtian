@@ -46,65 +46,65 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 
 ### Conference Papers
-1. Zhihuan Yang,  Wenlong Tian, Emma Zhang, Zhiyong Xu. Sec-Reduce: Secure Reduction of Redundant and Similar Data for Cloud Storage based on Zero-Knowledge Proof. The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2024, San Ya, China, 17-21 December, 2024
+1. Zhixiong Xie, Wenlong Tian, Jianfeng Lu, Weijun Xiao, Zhiyong Xu, High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage, Companion Proceedings of the ACM on Web Conference 2025, WWW 2025, Sydney, Australia, April 28th - May 2th, 2025. https://doi.org/10.1145/3701716.3715588
+   
+2. Zhihuan Yang,  Wenlong Tian, Emma Zhang, Zhiyong Xu. Sec-Reduce: Secure Reduction of Redundant and Similar Data for Cloud Storage based on Zero-Knowledge Proof. The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2024, San Ya, China, 17-21 December, 2024
+   
+3. Zhihuan Yang,  Wenlong Tian, Ruixuan Li, Xuming Ye, Zhiyong Xu. Who Owns the Cloud Data? Exploring a non-interactive way for secure proof of ownership. The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2024, San Ya, China, 17-21 December, 2024
+   
+4. Xin Liu, Zhenxi Tian, Wenlong Tian and Zhiyong Xu. DNA-PRIME: Advanced DNA Sequence Compression through Enhanced Feature Fusion and Weight Hashing. The International Conference on Neural Information Processing (ICONIP), 2024, Auckland, New Zealand, 2-6 December, 2024. 
 
 
+5. Jinzhao Wang, **Wenlong Tian***, Ruixuan Li, Junwei Tang, Xuming Ye, Yaping Wan, Zhiyong Xu, Sym-Fed: Unleashing the Power of Symmetric Encryption in Cross-Silo Federated Learning. The 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2023, Exeter, United Kingdom, November 1-3, 2023.
 
-2. Zhihuan Yang,  Wenlong Tian, Ruixuan Li, Xuming Ye, Zhiyong Xu. Who Owns the Cloud Data? Exploring a non-interactive way for secure proof of ownership. The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, 2024, San Ya, China, 17-21 December, 2024
+6. Yuqing Geng,**Wenlong Tian***, Ruixuan Li, Weijun Xiao, Chunping Ouyang, Yongbing Liu, Qifei Liu, Jing Li, Xuming Ye and Zhiyong Xu， Context-aware Resemblance Detection based Deduplication Ratio Prediction for Cloud Storage. The 9th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies BDCAT 2022,Vancouver, Washington, USA, December 6-9, 2022.
 
+7. Zhigang Xu, Qing Sun, Hongmu Han, Xinhua Dong, Yan Zhongzhen, Zhiqiang Zheng, **Wenlong Tian**, BMTAC: A Decentralized, Auditable, Time-Limited, Multi-Authority Attribute Access Control Scheme in Blockchain Environment. The 19th IEEE International Conference on Ubiquitous Intelligence and Computing, UIC 2022, Haikou, China, December 15-18, 2022
 
+8. Yue Yuan, Yongbin Liu, Chunping Ouyang, **Wenlong Tian** and Wenlong Fang, 基于一对多关系的多模态虚假新闻检测, China Conference on Knowledge Graph and Semantic Computing, CCKS 2022, QingHuangDao, China, August 24-27, 2022
 
-2. Xin Liu, Zhenxi Tian, Wenlong Tian and Zhiyong Xu. DNA-PRIME: Advanced DNA Sequence Compression through Enhanced Feature Fusion and Weight Hashing. The International Conference on Neural Information Processing (ICONIP), 2024, Auckland, New Zealand, 2-6 December, 2024. 
+9. Baisong Li, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhongming Fu, Xuming Ye, Renjiao Duan, Yusheng Li, Zhiyong Xu: Cross-domain Resemblance Detection based on Meta-learning for Cloud Storage. The 41st IEEE -- International Performance Computing and Communications Conference, IPCCC, 2022, Austin, TX, USA, November 11-13, 2022.
 
+10. Xuming Ye, Xiaoye Xue, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu, Yaping Wan: Chunk Content is not Enough: Chunk-Context Aware Resemblance Detection for Deduplication Delta Compression. 31st Data Compression Conference, DCC 2022, Snowbird, UT, USA, March 22-25, 2022. （Accepted） [video](https://sigport.org/documents/chunk-content-not-enough-chunk-context-aware-resemblance-detection-deduplication-delta) , [PDF](/papers/2022DCC.pdf) , [Full Version](https://arxiv.org/abs/2106.01273), [Detailed](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=225506193&knowledgeId=571996233)
 
-2. Jinzhao Wang, **Wenlong Tian***, Ruixuan Li, Junwei Tang, Xuming Ye, Yaping Wan, Zhiyong Xu, Sym-Fed: Unleashing the Power of Symmetric Encryption in Cross-Silo Federated Learning. The 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications, TrustCom 2023, Exeter, United Kingdom, November 1-3, 2023.
+11. Xuming Ye, Jia Tang, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu: Fast Variable-Grained Resemblance Data Deduplication For Cloud Storage. IEEE International Conference on Networking, Architecture and Storage, NAS 2021, Riverside, CA, USA, October 24-26, 2021:1-8. [video](/Videos/2021NAS.mp4), [pdf](/papers/2021NAS.pdf), [Detailed](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=225506193&knowledgeId=571993912)
 
-3. Yuqing Geng,**Wenlong Tian***, Ruixuan Li, Weijun Xiao, Chunping Ouyang, Yongbing Liu, Qifei Liu, Jing Li, Xuming Ye and Zhiyong Xu， Context-aware Resemblance Detection based Deduplication Ratio Prediction for Cloud Storage. The 9th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies BDCAT 2022,Vancouver, Washington, USA, December 6-9, 2022.
+12.  **Wenlong Tian**, Ruixuan Li, Weijun Xiao, Zhiyong Xu: PTS-Dep: A High-Performance Two-Party Secure Deduplication for Cloud Storage. HPCC/SmartCity/DSS 2018: 700-707  [pdf](/papers/2018HPCC.pdf) 
 
-4. Zhigang Xu, Qing Sun, Hongmu Han, Xinhua Dong, Yan Zhongzhen, Zhiqiang Zheng, **Wenlong Tian**, BMTAC: A Decentralized, Auditable, Time-Limited, Multi-Authority Attribute Access Control Scheme in Blockchain Environment. The 19th IEEE International Conference on Ubiquitous Intelligence and Computing, UIC 2022, Haikou, China, December 15-18, 2022
+13. Dongdong Yue, Ruixuan Li, Yan Zhang, **Wenlong Tian**, Chengyi Peng: Blockchain Based Data Integrity Verification in P2P Cloud Storage. ICPADS 2018: 561-568.
 
-5. Yue Yuan, Yongbin Liu, Chunping Ouyang, **Wenlong Tian** and Wenlong Fang, 基于一对多关系的多模态虚假新闻检测, China Conference on Knowledge Graph and Semantic Computing, CCKS 2022, QingHuangDao, China, August 24-27, 2022
+14. Huikang Cao, Ruixuan Li, **Wenlong Tian**, Zhiyong Xu, Weijun Xiao: A Practical Accountability Scheme for Oblivious RAM in Cloud Storage. TrustCom/BigDataSE 2018: 397-402. ( Best Paper Award)
 
-6. Baisong Li, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhongming Fu, Xuming Ye, Renjiao Duan, Yusheng Li, Zhiyong Xu: Cross-domain Resemblance Detection based on Meta-learning for Cloud Storage. The 41st IEEE -- International Performance Computing and Communications Conference, IPCCC, 2022, Austin, TX, USA, November 11-13, 2022.
-
-7. Xuming Ye, Xiaoye Xue, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu, Yaping Wan: Chunk Content is not Enough: Chunk-Context Aware Resemblance Detection for Deduplication Delta Compression. 31st Data Compression Conference, DCC 2022, Snowbird, UT, USA, March 22-25, 2022. （Accepted） [video](https://sigport.org/documents/chunk-content-not-enough-chunk-context-aware-resemblance-detection-deduplication-delta) , [PDF](/papers/2022DCC.pdf) , [Full Version](https://arxiv.org/abs/2106.01273), [Detailed](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=225506193&knowledgeId=571996233)
-
-8. Xuming Ye, Jia Tang, **Wenlong Tian***, Ruixuan Li, Weijun Xiao, Zhiyong Xu: Fast Variable-Grained Resemblance Data Deduplication For Cloud Storage. IEEE International Conference on Networking, Architecture and Storage, NAS 2021, Riverside, CA, USA, October 24-26, 2021:1-8. [video](/Videos/2021NAS.mp4), [pdf](/papers/2021NAS.pdf), [Detailed](https://mooc1-1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=225506193&knowledgeId=571993912)
-
-9.  **Wenlong Tian**, Ruixuan Li, Weijun Xiao, Zhiyong Xu: PTS-Dep: A High-Performance Two-Party Secure Deduplication for Cloud Storage. HPCC/SmartCity/DSS 2018: 700-707  [pdf](/papers/2018HPCC.pdf) 
-
-10. Dongdong Yue, Ruixuan Li, Yan Zhang, **Wenlong Tian**, Chengyi Peng: Blockchain Based Data Integrity Verification in P2P Cloud Storage. ICPADS 2018: 561-568.
-
-11. Huikang Cao, Ruixuan Li, **Wenlong Tian**, Zhiyong Xu, Weijun Xiao: A Practical Accountability Scheme for Oblivious RAM in Cloud Storage. TrustCom/BigDataSE 2018: 397-402. ( Best Paper Award)
-
-12. **Wenlong Tian**, Ruixuan Li, Zhiyong Xu, Weijun Xiao: Does the content defined chunking really solve the local boundary shift problem? IPCCC 2017: 1-8. [pdf](/papers/2017IPCCC.pdf)
+15. **Wenlong Tian**, Ruixuan Li, Zhiyong Xu, Weijun Xiao: Does the content defined chunking really solve the local boundary shift problem? IPCCC 2017: 1-8. [pdf](/papers/2017IPCCC.pdf)
 
 ### Journal Papers
-1. Dewen Zeng, **Wenlong Tian**, Tingting He, Ruixuan Li, Xuming Ye, Weijun Xiao, Zhiyong Xu.IBNR-RD: Intra-Block Neighborhood Relationship-Based Resemblance Detection for High-Performance Multi-Node Post-Deduplication. IEEE Transactions on Cloud Computing, 2024, doi: 10.1109/TCC.2024.3514784.
+1. Xuming Ye, **Wenlong Tian**, Yaping Wan, Ruixuan Li, Weijun Xiao, Zhiyong Xu: Context-aware resemblance detection for data deduplication with neural network, Engineering Applications of Artificial Intelligence, 2025,144 (110116), 0952-1976
+   
+2. Dewen Zeng, **Wenlong Tian**, Tingting He, Ruixuan Li, Xuming Ye, Weijun Xiao, Zhiyong Xu.IBNR-RD: Intra-Block Neighborhood Relationship-Based Resemblance Detection for High-Performance Multi-Node Post-Deduplication. IEEE Transactions on Cloud Computing, 2024, doi: 10.1109/TCC.2024.3514784.
 
-2. **Wenlong Tian**, Jian Guo, Zhiyong  Xu, Ruixuan Li, Weijun Xiao. PEO-Store: Delegation-Proof based Oblivious Storage with Secure Redundancy Elimination.  IEEE Transactions on Dependable and Secure Computing, 2024, 21(5): 4815-4826. doi:10.1109/TDSC.2024.3361450.
+3. **Wenlong Tian**, Jian Guo, Zhiyong  Xu, Ruixuan Li, Weijun Xiao. PEO-Store: Delegation-Proof based Oblivious Storage with Secure Redundancy Elimination.  IEEE Transactions on Dependable and Secure Computing, 2024, 21(5): 4815-4826. doi:10.1109/TDSC.2024.3361450.
 
-3. **Wenlong Tian**, Qi Liu, Ruixuan Li, Zhiyong  Xu,Yan  Zhang, Yongfeng Huang. A Blockchain-based Secure Searching Strategy for Metadata in Mobile Edge Computing. IEEE Internet of Things Journal, 2023, 10(22): 19795-19809 (2023), doi:10.1109/JIOT.2023.3282043 
+4. **Wenlong Tian**, Qi Liu, Ruixuan Li, Zhiyong  Xu,Yan  Zhang, Yongfeng Huang. A Blockchain-based Secure Searching Strategy for Metadata in Mobile Edge Computing. IEEE Internet of Things Journal, 2023, 10(22): 19795-19809 (2023), doi:10.1109/JIOT.2023.3282043 
 
-4. 阳智欢，田纹龙，何婷婷，叶旭明，唐佳，上下文语义嵌入的变粒度云存储相似数据去重技术，计算机技术与发展, 2024（已录用）
+5. 阳智欢，田纹龙，何婷婷，叶旭明，唐佳，上下文语义嵌入的变粒度云存储相似数据去重技术，计算机技术与发展, 2024（已录用）
 
-5. **Wenlong Tian**, Ruixuan Li, Zhiyong Xu, Weijun Xiao. Loco-Store Locality-Based Oblivious Data  Storage. IEEE Transactions on Dependable and Secure Computing, 2022, 19(2): 1395-1406 (2022) [pdf](/papers/2022TDSC.pdf)
+6. **Wenlong Tian**, Ruixuan Li, Zhiyong Xu, Weijun Xiao. Loco-Store Locality-Based Oblivious Data  Storage. IEEE Transactions on Dependable and Secure Computing, 2022, 19(2): 1395-1406 (2022) [pdf](/papers/2022TDSC.pdf)
 
-6. **Wenlong Tian**, Ruixuan Li,  Zhiyong Xu: TSS: A Two-party Secure Server-Aid Chunking Algorithm. Concurrency and Computation: Practice and Experience, 2022, 34(12):e6577 
+7. **Wenlong Tian**, Ruixuan Li,  Zhiyong Xu: TSS: A Two-party Secure Server-Aid Chunking Algorithm. Concurrency and Computation: Practice and Experience, 2022, 34(12):e6577 
 
-7. Zhigang Xu, Shiguang Zhang, Hongmu Han, Xinhua Dong, Zhiqiang Zheng, Haitao Wang, **Wenlong Tian**, Blockchain-Aided Searchable Encryption-Based Two-Way Attribute Access Control Research, Security and Communication Networks, (Accepted)
+8. Zhigang Xu, Shiguang Zhang, Hongmu Han, Xinhua Dong, Zhiqiang Zheng, Haitao Wang, **Wenlong Tian**, Blockchain-Aided Searchable Encryption-Based Two-Way Attribute Access Control Research, Security and Communication Networks, (Accepted)
 
-8. **Wenlong Tian**, Ruixuan Li, Cheng-Zhong Xu, Zhiyong Xu:Sed-Dedup: An efficient secure deduplication system with data modifications. Concurrency and Computation: Practice and Experience, 2021, 33(15):e5350 [pdf](/papers/2021CCPE.pdf) 
+9.  **Wenlong Tian**, Ruixuan Li, Cheng-Zhong Xu, Zhiyong Xu:Sed-Dedup: An efficient secure deduplication system with data modifications. Concurrency and Computation: Practice and Experience, 2021, 33(15):e5350 [pdf](/papers/2021CCPE.pdf) 
 
-9. **田纹龙**, 刘征海, 刘洋. 面向专业认证的UML建模语言课程教学改革研究[J]. 教育信息化论坛, 2022, 6(3):3.
+10. **田纹龙**, 刘征海, 刘洋. 面向专业认证的UML建模语言课程教学改革研究[J]. 教育信息化论坛, 2022, 6(3):3.
 
-10. Huikang Cao, Ruixuan Li, **Wenlong Tian**, Zhiyong Xu, Weijun Xiao:Blockchain-based accountability for multi-party oblivious RAM. Journal of Parallel and Distributed Computing, 2020, 137:224-237. (co-first Author) [pdf](/papers/2020JPDC_ORAM.pdf)
+11. Huikang Cao, Ruixuan Li, **Wenlong Tian**, Zhiyong Xu, Weijun Xiao:Blockchain-based accountability for multi-party oblivious RAM. Journal of Parallel and Distributed Computing, 2020, 137:224-237. (co-first Author) [pdf](/papers/2020JPDC_ORAM.pdf)
 
-11. Dongdong Yue, Ruixuan Li, Yan Zhang, **Wenlong Tian**, Yongfeng Huang:Blockchain-based verification framework for data integrity in edge-cloud storage. Journal of Parallel and Distributed Computing, 2020, 146:1-14 [pdf](/papers/2020_JPDC_Blockchain.pdf)
+12. Dongdong Yue, Ruixuan Li, Yan Zhang, **Wenlong Tian**, Yongfeng Huang:Blockchain-based verification framework for data integrity in edge-cloud storage. Journal of Parallel and Distributed Computing, 2020, 146:1-14 [pdf](/papers/2020_JPDC_Blockchain.pdf)
 
-12. 何婷婷，**田纹龙**: 云环境下教师学习共同体的隐私保护--基于ORAM与群签名的融合技术. 现代教育技术, 2019, 000(001):79-85. (CSSCI)
+13. 何婷婷，**田纹龙**: 云环境下教师学习共同体的隐私保护--基于ORAM与群签名的融合技术. 现代教育技术, 2019, 000(001):79-85. (CSSCI)
 
-13. Shuoyi Zhao, Ruixuan Li, **Wenlong Tian**, Weijun Xiao, Xinhua Dong, Dongjie Liao, Samee U. Khan, Keqin Li:Divide-and-conquer approach for solving singular value decomposition based on MapReduce. Concurrency and Computation: Practice and Experience, 2016, 28(2):331-350  [pdf](/papers/2016CCPE.pdf)
+14. Shuoyi Zhao, Ruixuan Li, **Wenlong Tian**, Weijun Xiao, Xinhua Dong, Dongjie Liao, Samee U. Khan, Keqin Li:Divide-and-conquer approach for solving singular value decomposition based on MapReduce. Concurrency and Computation: Practice and Experience, 2016, 28(2):331-350  [pdf](/papers/2016CCPE.pdf)
 
 ### Awards
 2024，基于云链融合的遗忘型跨域医疗大数据相似消冗，湖南省计算机学会科学技术奖，三等奖
@@ -146,6 +146,11 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 | 2024年春季| 操作系统原理| 本22软卓01班| 48学时| 
 | 2024年秋季| 离散数学| 本23软卓01班| 48学时| 
 | 2024年秋季| 计算机网络原理L| 本23软留01班| 56学时| 
+| 2025年春季| 操作系统原理| 本23软卓01班| 48学时| 
+| 2025年春季| 大数据平台及编程实践B| 本22软卓01班| 48学时| 
+| 2025年春季| Python程序设计| 本24软创01班| 32学时|
+| 2025年春季| Python程序设计实验| 本24软创01班| 32学时|
+
 
 
 

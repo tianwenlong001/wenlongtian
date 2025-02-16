@@ -43,6 +43,13 @@
 2019年   湖南衡阳南岳人工智能教育专委会
 
 
+### Under Review
+1.  Sym-CS-HFL: A Secure and Efficient Solution for Privacy-Preserving Heterogeneous Federated Learning  IOTJ
+2.  NDCF——High-Performance DNA Sequence Compression Framework with Feature Augmentation     Journal of Biomedical and Health informatics
+3.  Horse-MinHash: High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage (TDSC)
+4.  HorseDR: A High-Performance and Secure Data Reduction Technique for Post-Deduplication Delta Compression  (TIFS)
+5.  DICE: Dynamic Slicing based Resemblance Detection for Post-Deduplication Delta Compression (TOS)
+6.  SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection  for Post-Deduplication  ICDCS 2025
 
 
 The team's extensive research spans cloud storage security, privacy protection, and blockchain security. 
