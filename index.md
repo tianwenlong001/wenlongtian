@@ -150,6 +150,8 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 | 2025年春季| 大数据平台及编程实践B| 本22软卓01班| 48学时| 
 | 2025年春季| Python程序设计| 本24软创01班| 32学时|
 | 2025年春季| Python程序设计实验| 本24软创01班| 32学时|
+| 2025年春季| UML建模语言L| 本23软留01班| 32学时|
+
 
 
 
