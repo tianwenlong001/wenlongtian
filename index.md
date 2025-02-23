@@ -3,7 +3,7 @@
 
 Wenlong Tian 
 
-Assistant Professor, 
+Associate Professor, 
 
 School of Computer Science and Technology, University of South China
 
