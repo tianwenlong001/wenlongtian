@@ -27,10 +27,17 @@
 * 【2022-10】阳智欢在第一届湖南省研究生计算机创新大赛荣获**省级三等奖**。
 
 # 团队成员😄
-## **硕士生**
+## **在读硕士生**
+
+| ==&zwnj;**年级**&zwnj;==  | 姓名 |
+|----------------|---------------------|
+| ==&zwnj;**研三**&zwnj;==  | [阳智欢](#阳智欢) |
+| ==&zwnj;**研二**&zwnj;==  |[曾德文](#曾德文), [谢志雄](#谢志雄)|
+| ==&zwnj;**研一**&zwnj;==  |[池雨萱](#池雨萱)，[何浈锐](#何浈锐)|
 
 ![enter image description here](http://localhost:8000/yang%281%29.jpg)
 
+<a id="阳智欢" > </a>
 ###    阳智欢 (Zhihuan Yang)
 ***个人简介：***
 阳智欢目前正在南华大学攻读硕士学位研究生三年级。她的主要研究兴趣包括云计算安全和分布式安全。
@@ -50,6 +57,8 @@
 
 ##
 ![enter image description here](http://localhost:8000/3.png)
+<a id="谢志雄" > </a>
+
 ###    谢志雄 (Zhixiong Xie)
 ***个人简介：***
 谢志雄目前正在南华大学攻读硕士学位研究生二年级。他的主要研究兴趣包括云计算安全和分布式安全。
@@ -58,10 +67,13 @@
 High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage Zhixiong Xie, Wenlong Tian*, Jianfeng Lu, Weijun Xiao, and Zhiyong Xu. 2025. High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage. In Companion of the 16th ACM/SPEC International Conference on Performance Engineering (WWW ’25), April 28-May 2, 2025, Sydney, NSW, Australia. ACM. https://doi.org/10.1145/3701716.3715588 （CCF-A）
 
 ***获奖列表：***
-第四届湖南省研究生人工智能创新大赛二等奖
+比赛证书编号，参与人员列表，参赛题目，第四届湖南省研究生人工智能创新大赛二等奖, pdf
 第五届湖南省研究生人工智能创新大赛三等奖
 第三届湖南省研究生计算机创新大赛二等奖
 ##
+
+<a id="曾德文" > </a>
+
 ###    曾德文 (Dewen Zeng)
 ![enter image description here](http://localhost:8000/t.jpg)
 ***个人简介：***
@@ -75,6 +87,9 @@ IBNR-RD: Intra-Block Neighborhood Relationship-Based Resemblance Detection for H
 第五届湖南省研究生人工智能创新大赛二等奖
 第三届湖南省研究生计算机创新大赛二等奖
 ##
+
+<a id="何浈锐" > </a>
+
 ###    何浈锐 (Zhenrui He)
 ![enter image description here](http://localhost:8000/1%281%29.jpg)
 ***个人简介：***
@@ -91,6 +106,9 @@ IBNR-RD: Intra-Block Neighborhood Relationship-Based Resemblance Detection for H
 
 
 ##
+
+<a id="池雨萱" > </a>
+
 ###    池雨萱 (Yuxuan Chi)
 ![enter image description here](http://localhost:8000/y%281%29.jpg)
 ***个人简介：***
