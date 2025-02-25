@@ -55,7 +55,7 @@
 谢志雄目前正在南华大学攻读硕士学位研究生二年级。他的主要研究兴趣包括云计算安全和分布式安全。
 
 ***发表学术论文：***
-High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage Zhixiong Xie, Wenlong Tian*, Jianfeng Lu, Weijun Xiao, and Zhiyong Xu. 2025. High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage. In Companion of the 16th ACM/SPEC International Conference on Performance Engineering (WWW Companion ’25), April 28-May 2, 2025, Sydney, NSW, Australia. ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3701716.3715588 （CCF-A）
+High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage Zhixiong Xie, Wenlong Tian*, Jianfeng Lu, Weijun Xiao, and Zhiyong Xu. 2025. High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage. In Companion of the 16th ACM/SPEC International Conference on Performance Engineering (WWW ’25), April 28-May 2, 2025, Sydney, NSW, Australia. ACM. https://doi.org/10.1145/3701716.3715588 （CCF-A）
 
 ***获奖列表：***
 第四届湖南省研究生人工智能创新大赛二等奖
@@ -104,6 +104,27 @@ IBNR-RD: Intra-Block Neighborhood Relationship-Based Resemblance Detection for H
  - 研究生新生校级二等奖学金
  
  # 照片墙❤️
+
+ <!-- 粘贴到支持HTML的Markdown编辑器（如Typora/VSCode） -->
+<div class="carousel" style="max-width:800px;margin:1rem auto;border-radius:8px;overflow:hidden">
+  <img src="sunset.jpg" alt="日落" style="width:100%;display:block">
+  <img src="mountain.jpg"alt="山脉" style="width:100%;display:none">
+</div>
+
+🔘 手动切换按钮（需平台支持JS）：
+<button onclick="switchSlide(-1)">⬅️</button>  
+<button onclick="switchSlide(1)">➡️</button>
+
+<script>
+let current = 0;
+function switchSlide(n) {
+  const imgs = document.querySelectorAll('.carousel img');
+  imgs[current].style.display = 'none';
+  current = (current + n + imgs.length) % imgs.length;
+  imgs[current].style.display = 'block';
+}
+</script>
+
  
 ![enter image description here](http://localhost:8000/e.jpg)
 
