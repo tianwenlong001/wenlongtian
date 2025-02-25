@@ -107,8 +107,8 @@ IBNR-RD: Intra-Block Neighborhood Relationship-Based Resemblance Detection for H
 
  <!-- 粘贴到支持HTML的Markdown编辑器（如Typora/VSCode） -->
 <div class="carousel" style="max-width:800px;margin:1rem auto;border-radius:8px;overflow:hidden">
-  <img src="sunset.jpg" alt="日落" style="width:100%;display:block">
-  <img src="mountain.jpg"alt="山脉" style="width:100%;display:none">
+  <img src="../imgs/8771740462569_.pic.jpg" alt="日落" style="width:100%;display:block">
+  <img src="../imgs/8781740462586_.pic.jpg"alt="山脉" style="width:100%;display:none">
 </div>
 
 🔘 手动切换按钮（需平台支持JS）：
