@@ -106,12 +106,9 @@ IBNR-RD: Intra-Block Neighborhood Relationship-Based Resemblance Detection for H
  # 照片墙❤️
 
 
-<details>
-  <summary>点击展开图片轮播</summary>
-
-  ![img1](../imgs/8771740462569_.pic.jpg)
-  ![img2](../imgs/8781740462586_.pic.jpg)
-</details>
+| 图片1 | 图片2 | 图片3 | 图片4|
+|-------|-------|-------|-------|
+| ![Alt](../imgs/8771740462569_.pic.jpg) | ![Alt](../imgs/8781740462586_.pic.jpg) | ![Alt](../imgs/8771740462569_.pic.jpg) | ![Alt](../imgs/8781740462586_.pic.jpg) |
 
  
 ![enter image description here](http://localhost:8000/e.jpg)
