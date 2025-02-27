@@ -62,14 +62,23 @@
 ###    叶旭明 (Xuming Ye)
 
 ***个人简介：***
-待补充。
+叶旭明目前正在中央民族大学大学攻读硕士学位研究生三年级。他的主要研究兴趣包括存储系统，大模型训练推理系统。
 
 ***发表学术论文：***
+[1] Xuming Ye, Wenlong Tian, Ruixuan Li, Haozhao Wang, Weijun Xiao, Zhiyong Xu, "SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection for Post-Deduplication," IEEE International Conference on Distributed Computing Systems, ICDCS 2025 (CCF-B, under review)
+[2] Xuming Ye, Wenlong Tian, Yaping Wan, Ruixuan Li, Weijun Xiao, Zhiyong Xu, "Context-Aware Resemblance Detection for Data Deduplication with Neural Network," Engineering Applications of Artificial Intelligence (JCR Q1, accepted)
+[3] Xuming Ye, Chaomurilige Wang, Zheng Liu, Haoyu Luo, Jun Dong, Yingzhe Luo, "Multimodal Summarization with Modality-Aware Fusion and Summarization Ranking," International Conference on Algorithms and Architectures for Parallel Processing, ICA3PP 2024 (CCF-C, accepted)
+[4] Yu Weng, Xuming Ye, Tianjiao Xing, Chaomurilige Wang, Zheng Liu, Xuan Liu, "Facet-Aware Multimodal Summarization via Cross-modal Alignment," International Conference on Pattern Recognition, ICPR 2024 (CCF-C, accepted)
+[5] Xuming Ye, Xiaoye Xue, Wenlong Tian, Ruixuan Li, Weijun Xiao, Zhiyong Xu, Yaping Wan, "Chunk Content is not Enough: Chunk-Context Aware Resemblance Detection for Deduplication Delta Compression," IEEE Data Compression Conference, DCC 2022 (CCF-B, accepted)
+[6] Xuming Ye, Jia Tang, Wenlong Tian, Ruixuan Li, Weijun Xiao, Yuqing Geng, Zhiyong Xu, "Fast Variable-Grained Resemblance Data Deduplication For Cloud Storage," IEEE International Conference on Networking, Architecture and Storage, NAS 2021 (EI, accepted)
 
-待补充。
 
 ***获奖列表：***
-  待补充。
+[1] 国家级大学生创新创业训练计划
+[2] 湖南省大学生程序设计大赛-省级三等奖
+[3] 中国大学生计算机设计大赛-中南赛区三等奖
+[4] 中国大学生服务外包创新创业大赛-全国三等奖
+[5] 中国软件杯-全国二等奖
 
 ##
 ![enter image description here](http://localhost:8000/3.png)
