@@ -1,3 +1,0 @@
-USC_IDC 
-
-Introduction
