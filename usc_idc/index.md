@@ -39,8 +39,10 @@
 
 <a id="阳智欢" > </a>
 ###    阳智欢 (Zhihuan Yang)
+
 ***个人简介：***
 阳智欢目前正在南华大学攻读硕士学位研究生三年级。她的主要研究兴趣包括云计算安全和分布式安全。
+
 ***发表学术论文：***
 [1] 阳智欢，田纹龙，何婷婷，叶旭明，唐佳，上下文语义嵌入的变粒度云存储相似数据去重技术，计算机技术与发展,2024（已录用，CCF-C推荐期刊）
 [2] Zhihuan Yang，Wenlong Tian，Ruixuan Li，Xuming Ye，Zhiyong Xu. Who Owns the Cloud Data? Exploring a non-interactive way for secure proof of ownership .The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications（已录用，The IEEE TrustCom-2024,CCF-C会议)
@@ -58,8 +60,10 @@
 
 <a id="叶旭明" > </a>
 ###    叶旭明 (Xuming Ye)
+
 ***个人简介：***
 待补充。
+
 ***发表学术论文：***
 
 待补充。
