@@ -38,7 +38,7 @@
 
 
 <a id="阳智欢" > </a>
-<img src="../imgs/13211741786913_.pic.jpg" width="width: 200px; height: auto;">
+<img src="../imgs/13211741786913_.pic.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13211741786913_.pic.jpg){width=150px} -->
 
 ###    阳智欢 (Zhihuan Yang)
