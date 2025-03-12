@@ -58,7 +58,7 @@
  - 第三届湖南省研究生计算机创新大赛二等奖 
  - 2022-2023年研究生校级一等奖学金
  - 2023-2024年研究生校级二等奖学金
- - 研究生校级新生三等奖学金 等奖（排一）
+ - 研究生校级新生三等奖学金（排一）
  -  2023 年校级优秀研究生干部
   
 ##
@@ -173,17 +173,40 @@ writing...
 
  # 照片墙❤️
 
+<table>
+  <tr>
+    <!-- 第一行四列 -->
+    <td width="25%"><img src="../imgs/8771740462569_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/8781740462586_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/13261741787164_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/13251741787143_.pic_hd.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+  </tr>
+  <!-- 更多行直接复制上方 <tr> 块 -->
+   <tr>
+    <!-- 第一行四列 -->
+    <td width="25%"><img src="../imgs/68061740499721_.pic_hd.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/13461741790524_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/13511741790673_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/13641741790735_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+  </tr>
+  <tr>
+    <!-- 第一行四列 -->
+    <td width="25%"><img src="../imgs/13771741790856_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/13681741790738_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/13511741790673_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/13731741790851_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+  </tr>
+</table>
 
-| 图片1 | 图片2 | 图片3 | 图片4|
+
+<!-- | 图片1 | 图片2 | 图片3 | 图片4|
 |-------|-------|-------|-------|
-| ![Alt](../imgs/8771740462569_.pic.jpg) | ![Alt](../imgs/8781740462586_.pic.jpg) | ![Alt](../imgs/8771740462569_.pic.jpg) | ![Alt](../imgs/8781740462586_.pic.jpg) |
+| <img src="../imgs/8771740462569_.pic.jpg" style="width: 200px; height: auto;"> | <img src="../imgs/8781740462586_.pic.jpg" style="width: 200px; height: auto;"> | <img src="../imgs/13261741787164_.pic.jpg" style="width: 200px; height: auto;">  | <img src="../imgs/13251741787143_.pic_hd.jpg" style="width: 200px; height: auto;"> |
+| ![Alt](../imgs/68061740499721_.pic_hd.jpg) 
+| ![Alt](../imgs/8781740462586_.pic.jpg) 
+| ![Alt](../imgs/13261741787164_.pic.jpg) 
+| ![Alt](../imgs/13251741787143_.pic_hd.jpg) | -->
 
- 
-![enter image description here](http://localhost:8000/e.jpg)
-
-![enter image description here](http://localhost:8000/w.jpg)
-
-![enter image description here](http://localhost:8000/q.jpg)
 
 
 # 论文推荐&数据集👀️  
