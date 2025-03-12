@@ -176,25 +176,39 @@ writing...
 <table>
   <tr>
     <!-- 第一行四列 -->
-    <td width="25%"><img src="../imgs/8771740462569_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
-    <td width="25%"><img src="../imgs/8781740462586_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
-    <td width="25%"><img src="../imgs/13261741787164_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
-    <td width="25%"><img src="../imgs/13251741787143_.pic_hd.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/8771740462569_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/8781740462586_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13261741787164_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13251741787143_.pic_hd.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
   <!-- 更多行直接复制上方 <tr> 块 -->
    <tr>
     <!-- 第一行四列 -->
-    <td width="25%"><img src="../imgs/68061740499721_.pic_hd.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
-    <td width="25%"><img src="../imgs/13461741790524_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
-    <td width="25%"><img src="../imgs/13511741790673_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
-    <td width="25%"><img src="../imgs/13641741790735_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/68061740499721_.pic_hd.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13461741790524_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13511741790673_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13641741790735_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
   <tr>
     <!-- 第一行四列 -->
-    <td width="25%"><img src="../imgs/13771741790856_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
-    <td width="25%"><img src="../imgs/13681741790738_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
-    <td width="25%"><img src="../imgs/13511741790673_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
-    <td width="25%"><img src="../imgs/13731741790851_.pic.jpg" style="width:100%; height:200px; object-fit: cover;"></td>
+    <td width="25%"><img src="../imgs/13771741790856_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13681741790738_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13821741791453_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13731741790851_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+  </tr>
+  <tr>
+    <!-- 第一行四列 -->
+    <td width="25%"><img src="../imgs/13581741790680_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13601741790682_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13741741790852_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13721741790850_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+  </tr>
+  <tr>
+    <!-- 第一行四列 -->
+    <td width="25%"><img src="../imgs/13831741791476_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13841741791544_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13951741791586_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/13801741791441_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
 </table>
 
