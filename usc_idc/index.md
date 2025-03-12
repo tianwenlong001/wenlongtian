@@ -50,6 +50,7 @@
 [1] 阳智欢，田纹龙，何婷婷，叶旭明，唐佳，上下文语义嵌入的变粒度云存储相似数据去重技术，计算机技术与发展,2024（已录用，CCF-C推荐期刊）
 [2] Zhihuan Yang，Wenlong Tian，Ruixuan Li，Xuming Ye，Zhiyong Xu. Who Owns the Cloud Data? Exploring a non-interactive way for secure proof of ownership .The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications（已录用，The IEEE TrustCom-2024,CCF-C会议)
 [3] Zhihuan Yang，Wenlong Tian，Emma Zhang， Zhiyong Xu. c The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications（已录用，The IEEE TrustCom-2024,CCF-C会议)
+
 ***获奖列表：***
  - 2024年研究生国家奖学金 
  - 第四届湖南省研究生人工智能创新大赛二等奖
@@ -63,7 +64,7 @@
 ##
 
 <a id="叶旭明" > </a>
-![Alt](../imgs/138491740761519_.pic.jpg){width=150px}
+<img src="../imgs/138491740761519_.pic.jpg" style="width: 200px; height: auto;">
 
 ###    叶旭明 (Xuming Ye)
 
@@ -89,7 +90,8 @@
 ##
 
 <a id="谢志雄" > </a>
-![Alt](../imgs/13231741786985_.pic.jpg){width=150px}
+<img src="../imgs/13231741786985_.pic.jpg" style="width: 200px; height: auto;">
+<!-- ![Alt](../imgs/13231741786985_.pic.jpg){width=150px} -->
 
 ###    谢志雄 (Zhixiong Xie)
 ***个人简介：***
@@ -110,7 +112,8 @@ High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage Zhix
 
 
 <a id="曾德文" > </a>
-![Alt](../imgs/13111741770603_.pic.jpg){width=150px}
+<img src="../imgs/13111741770603_.pic.jpg" style="width: 200px; height: auto;">
+<!-- ![Alt](../imgs/13111741770603_.pic.jpg){width=150px} -->
 
 ###    曾德文 (Dewen Zeng)
 
@@ -128,7 +131,8 @@ Dewen Zeng, Wenlong Tian, Tingting He, Ruixuan Li, Xuming Ye, Weijun Xiao, Zhiy
 ##
 
 <a id="何浈锐" > </a>
-![Alt](../imgs/13121741770602_.pic.jpg){width=150px}
+<img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
+<!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
 ###    何浈锐 (Zhenrui He)
 
@@ -148,7 +152,8 @@ writing...
 ##
 
 <a id="池雨萱" > </a>
-![Alt](../imgs/13141741770603_.pic.jpg){width=150px}
+<img src="../imgs/13141741770603_.pic.jpg" style="width: 200px; height: auto;">
+<!-- ![Alt](../imgs/13141741770603_.pic.jpg){width=150px} -->
 
 ###    池雨萱 (Yuxuan Chi)
 
