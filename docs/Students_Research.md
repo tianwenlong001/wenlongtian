@@ -24,7 +24,7 @@ Traditional Storage, Secure Storage, Blockchain, AI security, Cryptography
 
 6. Xin Liu, Zhenxi Tian, **Wenlong Tian**, and Zhiyong Xu, DNA-PRIME: Advanced DNA Sequence Compression through Enhanced Feature Fusion and Weight Hashing, The 31th International Conference on Neural Information Processing , ICONIP 2024, Auckland, New Zealand, December 2-6, 2024
 
-
+[superstar link](https://mooc1.chaoxing.com/course-ans/courseportal/225506193.html?edit=true)
 
 ### Grants Hosted by My Students
 202110555052 面向云存储的相似数据去重研究, 国家级大创项目,  一万元, (From 2021-06-01 To 2023-06-01）  (hosted by: [叶旭明](https://08ming.github.io/)) （已结题） 
