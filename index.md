@@ -178,7 +178,7 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 
 [USC_IDC lab](https://tianwenlong001.github.io/wenlongtian/usc_idc/)
 
-[24级华为创新班](https://tianwenlong001.github.io/wenlongtian/rc_class_doc/main.md)
+[24级华为创新班](https://tianwenlong001.github.io/wenlongtian/rc_class_doc/main)
 
 [24级华为鸿蒙班]()
 
