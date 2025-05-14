@@ -172,7 +172,14 @@ Cloud Storage Security, Cryptography, Blockchain, AI security
 ### Software Copyright 
 李柏松，李宇圣，田纹龙， 基于知识图谱语义查询的航班集成系统 V1.0, 2022年04月07日，登记号2022SR0442094
 
-[Undergraduated Students Research & Competition](https://tianwenlong001.github.io/wenlongtian/docs/Students_Research) 
+
+### *友情链接*
+[Undergraduated Students Research & Competition](https://tianwenlong001.github.io/wenlongtian/docs/Students_Research)
+
 [USC_IDC lab](https://tianwenlong001.github.io/wenlongtian/usc_idc/)
+
+[24级华为创新班](https://tianwenlong001.github.io/wenlongtian/rc_class_doc/main.md)
+
+[24级华为鸿蒙班]()
 
 
