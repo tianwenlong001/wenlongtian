@@ -24,6 +24,13 @@
 
 
 ### Activities
+2025         第三届数据要素, 上海，中国， August,30-September 1
+2025         第二届CCF存储大会, 武汉，中国， August,28-30
+2025         网教盟会议, 长沙，中国， August,8-10
+2025         湖南省计算机学会年会, 长沙，中国， July,26-27
+2025         WWW2025, Sydney，AUS， ,April 28-May 2
+2024         中国CCF首届存储大会, 广州，中国， November,29-21
+2024         TrustCOM conference, 三亚，中国，December,19-24
 2024         华中科技大学计算机学院交流学习，湖北，武汉， August 1-9
 2024         中国计算机设计大赛，软件应用与开发，济南决赛赛区，July 22-26\\
 2024         现代教育技术，四川，成都，May 17-19\\
@@ -46,12 +53,20 @@
 
 
 ### Under Review
-1.  Sym-CS-HFL: A Secure and Efficient Solution for Privacy-Preserving Heterogeneous Federated Learning  IOTJ
-2.  NDCF——High-Performance DNA Sequence Compression Framework with Feature Augmentation     Journal of Biomedical and Health informatics
-3.  Horse-MinHash: High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage (TDSC)
-4.  HorseDR: A High-Performance and Secure Data Reduction Technique for Post-Deduplication Delta Compression  (TIFS)
-5.  DICE: Dynamic Slicing based Resemblance Detection for Post-Deduplication Delta Compression (TOS)
-6.  SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection  for Post-Deduplication  ICDCS 2025
+1.  NDCF——High-Performance DNA Sequence Compression Framework with Feature Augmentation     IEEE Transactions on NanoBioscience
+2.  SSID: Secure Similar Image Deduplication for Cloud Storage with Semantic Segmentation and Locality (TIFS)
+3.  HorseDR: A High-Performance and Secure Data Reduction Technique for Post-Deduplication Delta Compression  (TIFS)
+4.  Sec-Reduce: Zero-Knowledge Proof-based Redundancy Elimination for Similar Data in Cloud Storage     (TIFS)
+5.  Simage-Dedup: Leveraging Semantic Segmentation for Efficient Similar Image Deduplication CCPE
+6.  BenchMark    TC
+7.  RippleShapley  AAAI
+8.  Ratio prediction for unseen workload  TCC
+9.  SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection  for Post-Deduplication  ICDCS 2025
+10. DIME: A Blockchain-Based Incentive Mechanism with Deduplicable Fungible Tokens for Sky Computing   WWW 2026
+11. MHEDB: Efficient Indexed Query Processing over Encrypted Hybrid Databases via Fully Homomorphic Encryption   Usenix Security
+12. Gain-Stealing and Loss-Amplifying: Universal Data Attribution  Depletion in Machine Learning with In-Run Data Shapley  Usenix Security
+13. TPAMI 
+14. The Behavioral Logic of Rural Retention among Kindergarten Teachers: A Perspective from the Theory of Planned Behavior Teachers and Teaching
 
 
 The team's extensive research spans cloud storage security, privacy protection, and blockchain security. 
