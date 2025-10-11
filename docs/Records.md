@@ -58,7 +58,7 @@
 3.  HorseDR: A High-Performance and Secure Data Reduction Technique for Post-Deduplication Delta Compression  (TIFS)
 4.  Sec-Reduce: Zero-Knowledge Proof-based Redundancy Elimination for Similar Data in Cloud Storage     (TIFS)
 5.  Simage-Dedup: Leveraging Semantic Segmentation for Efficient Similar Image Deduplication CCPE
-6.  BenchMark    TC
+6.  BenchMark    TC 
 7.  RippleShapley  AAAI
 8.  Ratio prediction for unseen workload  TCC
 9.  SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection  for Post-Deduplication  ICDCS 2025
