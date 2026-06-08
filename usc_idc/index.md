@@ -17,7 +17,12 @@
 * 【2026-01】 我们的论文“Ripple Shapley: Data Influence Attribution in One Federated Training Run”被人工智能顶级国际会议AAAI26录用为Oral论文 **（CCF-A ）** 录用。
 * 【2025-10】池雨萱，程煜惠，谢志雄在第六届湖南省研究生人工智能创新大赛荣获**省级二等奖**。
 * 【2025-07】 我们的论文“Smart-to-Compress: A Predictive and Game-Theoretic Framework for Data Reduction Decisions”被Transaction on Cloud Computing顶级期刊接收 **（CCF-B 云计算顶刊）** 录用。
-* 【2025-06】 我们的论文“Horse-MinHash: High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage”被Transaction on Dependable Computing顶级期刊接收 **（CCF-A网络安全领域顶刊）** 录用。
+* 【2025-06】 我们的论文“# 已毕业学生  
+| ==&zwnj;**年级**&zwnj;== | 姓名 | 就业去向 |  
+|--------------|-------------------------------|------------------------------------------|  
+| ==&zwnj;**2022级**&zwnj;== | [阳智欢](#阳智欢), [叶旭明](#叶旭明) | 暨南大学博士、华中科技大学读博 |  
+| ==&zwnj;**2023级**&zwnj;== | [曾德文](#曾德文), [谢志雄](#谢志雄) | 华中科技大学读博、东南大学读博 |
+: High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage”被Transaction on Dependable Computing顶级期刊接收 **（CCF-A网络安全领域顶刊）** 录用。
 * 【2025-01】 我们的论文“High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage”被The 16th ACM/SPEC International Conference on Performance Engineering (WWW Companion ’25)接收为short paper **（CCF-A顶级会议）** 录用。
 * 【2024-11】我们的论文“IBNR-RD: Intra-Block Neighborhood Relationship-Based Resemblance Detection for High-Performance Multi-Node Post-Deduplication”被IEEE Transactions on Cloud Computing（TCC）接收 **（中科院二区）**。
 * 【2024-11】我们的论文“Who Owns the Cloud Data? Exploring a non-interactive way for secure proof of ownership .”被The IEEE TrustCom-2024 **（CCF-C会议）** 接收。
@@ -241,7 +246,7 @@ writing...
 
 # 已毕业学生  
 | ==&zwnj;**年级**&zwnj;== | 姓名 | 就业去向 |  
-|--------------|-------------------------------|------------------------------------------|  
+|--------------|-------------------------------| ---------------------------------|  
 | ==&zwnj;**2022级**&zwnj;== | [阳智欢](#阳智欢), [叶旭明](#叶旭明) | 暨南大学博士、华中科技大学读博 |  
 | ==&zwnj;**2023级**&zwnj;== | [曾德文](#曾德文), [谢志雄](#谢志雄) | 华中科技大学读博、东南大学读博 |
 
