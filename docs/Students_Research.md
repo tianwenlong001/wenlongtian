@@ -1,6 +1,6 @@
 ##  Student Research Homepage
 
-My name is [Wenlong Tian](https://tianwenlong001.github.io/wenlongtian/), and I am an assistant professor at the University of South China. This page overviews my student research groups and their published research works. These Students are full of passions and strong learning abilities, and I am very proud of them. 
+My name is [Wenlong Tian](https://tianwenlong001.github.io/wenlongtian/), and I am an associate professor at the University of South China. This page overviews my student research groups and their published research works. These Students are full of passions and strong learning abilities, and I am very proud of them. 
 
 
 
@@ -24,6 +24,10 @@ Traditional Storage, Secure Storage, Blockchain, AI security, Cryptography
 
 6. Xin Liu, Zhenxi Tian, **Wenlong Tian**, and Zhiyong Xu, DNA-PRIME: Advanced DNA Sequence Compression through Enhanced Feature Fusion and Weight Hashing, The 31th International Conference on Neural Information Processing , ICONIP 2024, Auckland, New Zealand, December 2-6, 2024
 
+7. Jinzhao Wang, **Wenlong Tian***, Junwei tang, Xuming Ye, Yaping Wan, Zhiyong Xu: Sym-CS-HFL: A Secure and Efficient Solution for Privacy-Preserving Heterogeneous Federated Learning, Journal of Information Security and Applications.
+
+8. Xuming Ye, **Wenlong Tian**, Yaping Wan, Ruixuan Li, Weijun Xiao, Zhiyong Xu: Context-aware resemblance detection for data deduplication with neural network, Engineering Applications of Artificial Intelligence, 2025,144 (110116), 0952-1976
+
 [superstar link](https://mooc1.chaoxing.com/course-ans/courseportal/225506193.html?edit=true)
 
 ### Grants Hosted by My Students
@@ -37,13 +41,27 @@ S202210555149 基于区块链的艺术品数字资产确权流通系统，省级
 
 2022X10555035 基于联邦学习的医疗隐私保护系统，校级大创项目，三千元, (From 2022-06-01 To 2024-06-01）(hosted by: 杨宜颖) （已结题）
 
-D202305172303130913 基于大模型的辅助教学系统，校级大创项目，三千元，（From 2023-06-01 To 2024-06-01）(hosted by: 万伊灵) （在研）
+D202305172303130913 基于大模型的辅助教学系统，校级大创项目，三千元，（From 2023-06-01 To 2024-06-01）(hosted by: 万伊灵) （已结题）
 
-D202305161151302334 出行随车购-车载智能营销系统，校级大创项目，三千元，（From 2023-06-01 To 2024-06-01）(hosted by: 郑龙) (在研)
+D202305161151302334 出行随车购-车载智能营销系统，校级大创项目，三千元，（From 2023-06-01 To 2024-06-01）(hosted by: 郑龙) (已结题)
 
-S202310555276 基于区块链的分布式电力交易系统，省级大创项目，一万元，（From 2023-06-01 To 2024-06-01）(hosted by: 娄立都）（在研）
+S202310555276 基于区块链的分布式电力交易系统，省级大创项目，一万元，（From 2023-06-01 To 2024-06-01）(hosted by: 娄立都）（已结题）
 
-S202310555275 安行-基于深度学习的全方位安全行驶检测系统，省大创项目，一万元，（From 2023-06-01 To 2024-06-01）(hosted by: 王进钊) (在研) （第二指导老师）
+S202310555275 安行-基于深度学习的全方位安全行驶检测系统，省大创项目，一万元，（From 2023-06-01 To 2024-06-01）(hosted by: 王进钊) (已结题) （第二指导老师）
+
+S20220440137 望闻问切-中医诊疗系统，省级大创项目，一万元，（From 2025-06-01 To 2026-06-01）(hosted by: 陈东）（已结题）
+
+S20220441222 基于区块链的软件标识与智能分析系统，省级大创项目，一万元，（From 2025-06-01 To 2026-06-01）(hosted by: 陶琼）（已结题）
+
+S20220440806 “墨智工坊”智能教学平台，省级大创项目，一万元，（From 2025-06-01 To 2026-06-01）(hosted by: 郭添乐）（已结题）
+
+TrustFlow:基于机密容器与联邦学习的多场景可信协同计算平台，省级大创项目，一万元，（From 2026-06-01 To 2027-06-01）(hosted by: 王韩韵）（在研）
+
+面向信创环境的DICOM结构语义感知与多级去重策略验证系统，省级大创项目，一万元，（From 2026-06-01 To 2027-06-01）(hosted by: 胡杰）（在研）
+
+三棱镜安全中心，省级大创项目，一万元，（From 2026-06-01 To 2027-06-01）(hosted by: 梁秋菊）（在研）
+
+职途智析——基于AI的大学生职业规划智能体，省级大创项目，一万元，（From 2026-06-01 To 2027-06-01）(hosted by: 赵耀）（在研）
 
 
 

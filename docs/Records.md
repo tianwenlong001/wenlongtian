@@ -5,18 +5,20 @@
 
 
 ### Funding
- (1) 2024年主持国家自然科学基金课题：课题名称：面向跨域数据流通的云链协同式委托型安全去重研究，课题编号：62402208，立项经费：30万元，主持 (在研)；\\
-（2）2022年主持湖南省教育厅青年项目基金课题：课题名称：基于ORAM的混合云服务隐私保护机制研究，课题编号：22B0437，立项经费：6万元，主持 (在研)；\\
-（3）2021年主持湖南省自然科学基金课题：课题名称：面向海量多源异构数据的高性能安全去重技术研究 ，课题编号：2021JJ40468，立项经费：5万元，主持 (在研)；\\
-（4）2020年主持湖南省教育厅一般项目，课题名称：面向海量多源异构数据的安全访问模型研究，课题编号：19C1624，立项经费：1万元，主持 (已结题)； \\
-（5）2020年主持南华大学校级教改课题，课题名称：以双一流专业建设需求为导向的《UML建模语言》课程教学改革研究，课题编号：18202786884，立项经费：0.3万元，主持 (已结题)；（项目参与成员：欧阳纯萍、楚燕婷、蒋良卫）\\
-（6）2019年主持南华大学科研启动基金课题：课题名称：基于区块链技术的大数据安全访问模型研究 ，课题编号：190XQD121，立项经费：10万元，主持 (在研); \\
-（7）2021年教育厅优青项目，网络相依与异质流驱动的智能电网级联动力学行为研究，课题编号：20B515（丁琳主持，参与人：田纹龙 （第三参与人））(在研)\\
-（8）2022年湖南省自然科学基金-联合基金，基于区块链的医疗数据隐私保护方法，课题编号：2022JJ50153（谭敏生主持，参与人：田纹龙 （第三参与人））(在研)\\
-（9）2022年湖南省自然科学基金面上项目，面向少样本的领域知识图谱构建技术研究，课题编号：2022JJ30495（欧阳纯萍主持，参与人：田纹龙（第三参与人）） (在研)\\
-（10）2023年教师教育研究基地项目，基础教育，省级重点资助，基于社交网络的乡村幼儿园教师学习共同体研究，课题编号：XJK23AJD014 (何婷婷主持，参与人：田纹龙)\\
-（11）2023年湖南省普通高等学校教学改革研究重点项目“新工科背景下校企联合驱动的软件工程复合型⼈才培养模式研究”，项目编号：“HNJG-20230569” (欧阳纯萍主持，参与人：田纹龙)\\
-（12）2022年湖南省一流本科课程，计算机导论，参与，排名第五
+ (1) 2025年湖南省青年骨干教师课题名，立项经费：3万元，主持 (在研)；\\
+ (2) 2025年《大数据平台及编程实践》课程改革校企合作项目，立项经费5万，主持（在研）\\
+ (3) 2024年主持国家自然科学基金课题：课题名称：面向跨域数据流通的云链协同式委托型安全去重研究，课题编号：62402208，立项经费：30万元，主持 (在研)；\\
+（4）2022年主持湖南省教育厅青年项目基金课题：课题名称：基于ORAM的混合云服务隐私保护机制研究，课题编号：22B0437，立项经费：6万元，主持 (已结题)；\\
+（5）2021年主持湖南省自然科学基金课题：课题名称：面向海量多源异构数据的高性能安全去重技术研究 ，课题编号：2021JJ40468，立项经费：5万元，主持 (已结题)；\\
+（6）2020年主持湖南省教育厅一般项目，课题名称：面向海量多源异构数据的安全访问模型研究，课题编号：19C1624，立项经费：1万元，主持 (已结题)； \\
+（7）2020年主持南华大学校级教改课题，课题名称：以双一流专业建设需求为导向的《UML建模语言》课程教学改革研究，课题编号：18202786884，立项经费：0.3万元，主持 (已结题)；（项目参与成员：欧阳纯萍、楚燕婷、蒋良卫）\\
+（8）2019年主持南华大学科研启动基金课题：课题名称：基于区块链技术的大数据安全访问模型研究 ，课题编号：190XQD121，立项经费：10万元，主持 (在研); \\
+（9）2021年教育厅优青项目，网络相依与异质流驱动的智能电网级联动力学行为研究，课题编号：20B515（丁琳主持，参与人：田纹龙 （第三参与人））(在研)\\
+（10）2022年湖南省自然科学基金-联合基金，基于区块链的医疗数据隐私保护方法，课题编号：2022JJ50153（谭敏生主持，参与人：田纹龙 （第三参与人））(在研)\\
+（11）2022年湖南省自然科学基金面上项目，面向少样本的领域知识图谱构建技术研究，课题编号：2022JJ30495（欧阳纯萍主持，参与人：田纹龙（第三参与人）） (在研)\\
+（12）2023年教师教育研究基地项目，基础教育，省级重点资助，基于社交网络的乡村幼儿园教师学习共同体研究，课题编号：XJK23AJD014 (何婷婷主持，参与人：田纹龙)\\
+（13）2023年湖南省普通高等学校教学改革研究重点项目“新工科背景下校企联合驱动的软件工程复合型⼈才培养模式研究”，项目编号：“HNJG-20230569” (欧阳纯萍主持，参与人：田纹龙)\\
+（14）2022年湖南省一流本科课程，计算机导论，参与，排名第五
 
   
 
@@ -24,9 +26,16 @@
 
 
 ### Activities
+2026         湖南省教工委党校，中青班，2026年4月13日-7月13日
+2026         AAAI，Singapore，2026年1月19日-28日
+2025         区块链专委会，上海，中国，2025年12月18-20日
+2025         网络与系统安全专委会，北京，中国，2025年12月6-7日
+2025         第七届中国计算机教育大会，厦门，中国，2025年11月28-30日
+2025         第十八届中国网络空间安全学科专业建设与人才培养研讨会，衡阳，中国，2025年10月17-19日
 2025         第三届数据要素, 上海，中国， August,30-September 1
 2025         第二届CCF存储大会, 武汉，中国， August,28-30
 2025         网教盟会议, 长沙，中国， August,8-10
+2025         华中科技大学计算机学院交流学习，湖北，武汉，  July 28-31
 2025         湖南省计算机学会年会, 长沙，中国， July,26-27
 2025         WWW2025, Sydney，AUS， ,April 28-May 2
 2024         中国CCF首届存储大会, 广州，中国， November,29-21
@@ -53,20 +62,18 @@
 
 
 ### Under Review
-1.  NDCF——High-Performance DNA Sequence Compression Framework with Feature Augmentation     IEEE Transactions on NanoBioscience
-2.  SSID: Secure Similar Image Deduplication for Cloud Storage with Semantic Segmentation and Locality (TIFS)
-3.  HorseDR: A High-Performance and Secure Data Reduction Technique for Post-Deduplication Delta Compression  (TIFS)
-4.  Sec-Reduce: Zero-Knowledge Proof-based Redundancy Elimination for Similar Data in Cloud Storage     (TIFS)
-5.  Simage-Dedup: Leveraging Semantic Segmentation for Efficient Similar Image Deduplication CCPE
-6.  BenchMark    TC 
-7.  RippleShapley  AAAI
-8.  Ratio prediction for unseen workload  TCC
-9.  SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection  for Post-Deduplication  ICDCS 2025
-10. DIME: A Blockchain-Based Incentive Mechanism with Deduplicable Fungible Tokens for Sky Computing   WWW 2026
-11. MHEDB: Efficient Indexed Query Processing over Encrypted Hybrid Databases via Fully Homomorphic Encryption   Usenix Security
-12. Gain-Stealing and Loss-Amplifying: Universal Data Attribution  Depletion in Machine Learning with In-Run Data Shapley  Usenix Security
-13. TPAMI 
-14. The Behavioral Logic of Rural Retention among Kindergarten Teachers: A Perspective from the Theory of Planned Behavior Teachers and Teaching
+1.  NDCF——High-Performance DNA Sequence Compression Framework with Feature Augmentation     TBD
+2.  SSID: Secure Similar Image Deduplication for Cloud Storage with Semantic Segmentation and Locality (Computer&Security)
+3.  HorseDR: A High-Performance and Secure Data Reduction Technique for Post-Deduplication Delta Compression  (TDSC)
+4.  Sec-Reduce: Zero-Knowledge Proof-based Redundancy Elimination for Similar Data in Cloud Storage     (Computer&Security)
+5.  BenchMark    TC 
+6.  RippleShapley Extension  TMC
+7.  SimPattern: A Novel Byte-Pattern Matching based Chunk Similarity Detection  for Post-Deduplication  ICPP 2026
+8. DIME: A Blockchain-Based Incentive Mechanism with Deduplicable Fungible Tokens for Sky Computing   TMC
+9. MHEDB: Efficient Indexed Query Processing over Encrypted Hybrid Databases via Fully Homomorphic Encryption   TDSC
+10. Gain-Stealing and Loss-Amplifying: Universal Data Attribution  Depletion in Machine Learning with In-Run Data Shapley  NDSS
+11. Xiong TPAMI-->changed 
+12. The Behavioral Logic of Rural Retention among Kindergarten Teachers: A Perspective from the Theory of Planned Behavior Teachers and Teaching    Educational Studies
 
 
 The team's extensive research spans cloud storage security, privacy protection, and blockchain security. 
