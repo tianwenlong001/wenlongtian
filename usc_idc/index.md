@@ -198,7 +198,7 @@ writing...
 
 
  # 照片墙❤️
-
+<div style="overflow-x: auto;">
 <table>
   <tr>
     <!-- 第一行四列 -->
@@ -244,6 +244,7 @@ writing...
     <td width="25%"><img src="../imgs/activities/202606209.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
 </table>
+</div>
 
 
 <!-- | 图片1 | 图片2 | 图片3 | 图片4|
