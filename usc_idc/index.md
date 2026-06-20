@@ -37,7 +37,7 @@
 |----------------|---------------------|
 | &zwnj;**研三**&zwnj;  | [池雨萱](#池雨萱)，[何浈锐](#何浈锐)|
 | &zwnj;**研二**&zwnj;  |[谭铮](#谭铮)，[程煜惠](#程煜惠)，[谢康](#谢康)|
-| &zwnj;**研一**&zwnj;  |[周秀川](#周秀川)，[周翰](#周翰)，[陈润泽](#陈润泽)，[何依容](#何依容)|
+| &zwnj;**研一**&zwnj;  |[周秀川](#周秀川)，[周瀚](#周瀚)，[陈润泽](#陈润泽)，[何依容](#何依容)|
 
 
 <a id="何浈锐" > </a>
@@ -47,12 +47,13 @@
 ###    何浈锐 (Zhenrui He)
 
 ***个人简介：***
-何浈锐，来自于湖南汨罗，本科毕业于中南林业科技大学软件工程专业，目前正在南华大学攻读硕士学位研究生一年级，在计算机学院学生第四党支部担任宣传委员。主要研究兴趣包括区块链技术、信息安全、云计算安全等。主要爱好有篮球。
+何浈锐，来自于湖南汨罗，本科毕业于中南林业科技大学软件工程专业，目前正在南华大学攻读硕士学位研究生三年级，在计算机学院学生第五党支部担任党支部副书记。主要研究兴趣包括区块链技术、信息安全、云计算安全等。主要爱好有篮球。
 
 ***发表学术论文：***
-writing...
+Smart-to-Compress: A Predictive and Game-Theoretic Framework for Data Reduction Decisions IEEE Transaction on Cloud Computing（CCF-B 云计算顶刊）
 
 ***获奖列表：***
+- 2025年，研究生校级二等奖学金
 - 2024年，[第五届湖南省研究生人工智能创新大赛三等奖](https://mp.weixin.qq.com/s/SFO4y76OL08A6wjDQsosJw)
 - 2024年，[第三届湖南省研究生计算机创新大赛二等奖](http://www.hncf.org/readnews.asp?id=262&forwhat=%D1%A7%BB%E1%B6%AF%CC%AC)
 - 2024年，研究生新生校级二等奖学金
@@ -67,12 +68,16 @@ writing...
 ###    池雨萱 (Yuxuan Chi)
 
 ***个人简介：***
-池雨萱，来自于江苏南京，本科毕业于南京邮电大学信息安全专业，目前正在南华大学攻读硕士学位研究生一年级，在计算机学院担任副班长,主要研究兴趣包括区块链技术、信息安全等, 主要爱好有乒乓球、羽毛球等。
+池雨萱，来自于江苏南京，本科毕业于南京邮电大学信息安全专业，目前正在南华大学攻读硕士学位研究生三年级，在计算机学院担任副班长，主要研究兴趣包括区块链技术、数据要素等。不太擅长羽毛球、乒乓球、电子竞技。
 
 ***发表学术论文：***
-writing...
+Yuxuan Chi, Qiong Tao, Wenlong Tian*, Jianfeng Lu, Zhiyong Xu, Yaping Wan, Wei Liang, and Meikang Qiu. A Blockchain-Based Decentralized Trusted Cloud Resource Storage Pricing Incentive Mechanism. The 19th International Conference on Knowledge Science, Engineering, and Management (KSEM 2026, CCF-C会议)
 
 ***获奖列表：***
+- 2026年，优秀学生干部
+- 2025年，研究生一等学业奖学金
+- 2025年，第六届湖南省研究生人工智能创新大赛二等奖
+- 2024年，南华大学第十八届研究生楚岳节优秀论文一等奖
 - 2024年，[第五届湖南省研究生人工智能创新大赛三等奖](https://mp.weixin.qq.com/s/SFO4y76OL08A6wjDQsosJw)（爱助智连：基于隐私计算与AI驱动的追光志愿服务平台）（谢志雄，池雨萱，何浈锐）
 - 2024年，[第三届湖南省研究生计算机创新大赛二等奖](http://www.hncf.org/readnews.asp?id=262&forwhat=%D1%A7%BB%E1%B6%AF%CC%AC)（爱助智连：基于隐私计算与AI驱动的追光志愿服务平台）（谢志雄，何浈锐，池雨萱）
 - 2023-2024年，研究生校级新生二等奖学金
@@ -85,28 +90,30 @@ writing...
 ###   谭铮 (Zheng Tan))
 
 ***个人简介：***
-...
+ 谭铮，来自于湖南娄底，本科毕业于南华大学软件工程卓越班，目前正在南华大学攻读硕士学位研究生二年级。主要研究兴趣包括，云计算安全，密码学，云存储，机器学习等。主要爱好有自行车。
 
 ***发表学术论文：***
 writing...
 
 ***获奖列表：***
-
+研一获得计算机学院研究生三等奖学金
 
 
 <a id="程煜惠" > </a>
 <img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
-###   程煜惠 (Yuhui Chen))
+###   程煜惠 (Yuhui Cheng))
 
 ***个人简介：***
-...
+程煜惠，来自湖南衡阳，本科毕业于南华大学软件工程专业，目前南华大学计算机学院专硕研究生在读，主要研究兴趣包括区块链技术、数据要素等。
 
 ***发表学术论文：***
 writing...
 
 ***获奖列表：***
+- 2025年,[第六届湖南省研究生人工智能创新大赛二等奖](https://mp.weixin.qq.com/s/ipsYryAXloR6QfbXIz3x2A)
+- 2024-2025学年南华大学研究生学业一等奖学金
 
 
 <a id="谢康" > </a>
@@ -116,13 +123,13 @@ writing...
 ###   谢康 (Kang Xie))
 
 ***个人简介：***
-...
+谢康，来自于湖南衡阳，本科毕业于湖南工学院，目前正在南华大学攻读硕士学位研究生一年级。对网络安全领域充满学习热情，主要研究兴趣包括漏洞检测、漏洞挖掘等。主要爱好有篮球。
 
 ***发表学术论文：***
 writing...
 
 ***获奖列表：***
- 
+2025年，研究生新生校级三等奖学金
 
 
 <a id="周秀川" > </a>
@@ -132,7 +139,7 @@ writing...
 ###   周秀川 (Chuanxiu Zhou))
 
 ***个人简介：***
-...
+周秀川，来自湖南郴州，本科毕业于河北地质大学计算机科学与技术专业，目前在南华大学攻读硕士学位研究生一年级。主要研究兴趣方向包括深度学习，密码学等。主要爱好有打篮球，台球和音乐
 
 ***发表学术论文：***
 writing...
@@ -141,14 +148,14 @@ writing...
 
 
 
-<a id="周翰" > </a>
+<a id="周瀚" > </a>
 <img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
-###   周翰 (Han Zhou))
+###   周瀚 (Han Zhou))
 
 ***个人简介：***
-...
+周瀚，来自湖南岳阳，本科毕业于厦门理工学院软件工程专业，目前在南华大学攻读硕士学位研究生一年级。主要研究兴趣为机器深度学习，人工智能方向等。主要爱好有篮球，摄影，旅游等等。
 
 ***发表学术论文：***
 writing...
@@ -162,7 +169,7 @@ writing...
 ###   陈润泽 (Runze Chen))
 
 ***个人简介：***
-...
+陈润泽，来自于湖南邵阳，本科毕业于南华大学软件工程，目前在南华大学攻读硕士学位研究生一年级。主要研究兴趣包括，密码学，机器学习等。主要爱好有打篮球、打羽毛球。
 
 ***发表学术论文：***
 writing...
@@ -178,7 +185,7 @@ writing...
 ###   何依容 (Yirong He)
 
 ***个人简介：***
-...
+何依容，来自湖南岳阳，本科就读于石河子大学网络空间安全专业。
 
 ***发表学术论文：***
 writing...
@@ -312,20 +319,31 @@ writing...
 
 ###    谢志雄 (Zhixiong Xie)
 ***个人简介：***
-谢志雄，来自于湖南娄底，本科毕业于湖南工商大学，目前正在南华大学攻读硕士学位研究生二年级。他的主要研究兴趣包括云计算安全和、分布式安全和高性能云计算。
+谢志雄，来自于湖南娄底，本科毕业于湖南工商大学，硕士毕业于南华大学。硕士期间主要研究兴趣包括云计算安全、分布式安全和高性能云计算。目前正在东南大学攻读博士研究生，博士研究主要包括大模型推理加速的攻防和AI安全。
 
 ***发表学术论文：***
-High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage Zhixiong Xie, Wenlong Tian*, Jianfeng Lu, Weijun Xiao, and Zhiyong Xu. 2025. High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage. In Companion of the 16th ACM/SPEC International Conference on Performance Engineering (WWW ’25), April 28-May 2, 2025, Sydney, NSW, Australia. ACM. https://doi.org/10.1145/3701716.3715588 （CCF-A）
+- Xie Z (第一作者), Tian W, Li R, et al. Horse-minhash: high-performance and secure jaccard similarity estimation for cloud storage[J]. IEEE Transactions on Dependable and Secure Computing. TDSC, 2025. Accept. CCF-A 推荐期刊.
+- Xie Z (第一作者), Tian W, Lu J, et al. High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage[C]//Companion Proceedings of the ACM on Web Conference 2025: 1426-1430. WWW, 2025. Accept. CCF-A 推荐会议.
+- Zhenrui He, Wenlong Tian*, Zhixiong Xie, Dewen Zeng, Jianfeng Lu, Zhiyong Xu, Weijun Xiao and Yaping Wan. Smart-to-Compress: A Predictive and Game-Theoretic Framework for Data Reduction Decisions. IEEE Transactions on Cloud Computing. TCC, 2025. Accept. CCF-B 推荐期刊. 三作.
+- Zhixiong Xie (第一作者), Wenlong Tian*, Ruixuan Li, Weijun Xiao, and Zhiyong Xu. HorseDR: A High-Performance and Secure Data Reduction Technique for Post-Deduplication Delta Compression . IEEE Transactions on Dependable and Secure Computing. TDSC, 2026. 在投. CCF-A 推荐期刊.
+- Zhixiong Xie (第一作者), Wenlong Tian*, Ruixuan Li, Jian Guo, Haozhao Wang, Jianfeng Lu and Zhen Ling. Gain-Stealing and Loss-Amplifying: Universal Data Attribution Depletion in Machine Learning with In-Run Data Shapley . NDSS 2027. 在投. CCF-A 推荐会议.
+- 主持南华大学研究生科研创新项目：基于云链融合的相似数据安全去重与隐私保护研究（立项编号：253YXC014，主持）
+
 
 ***获奖列表：***
+- 2026届，湖南省省级优秀毕业生
+- 2025年，研究生国家奖学金
+- 2025年，湖南省第十八届研究生创新论坛“网络空间安全分论坛”论文一等奖（排名第一）
+- 2025年，第六届湖南省研究生人工智能创新大赛三等奖（排名第三）
+- 2024-2025年，研究生校级一等学业奖学金
+- 2024-2025年度南华大学“五四”研究生先进个人，优秀研究生团员
 - 2024年，[第五届湖南省研究生人工智能创新大赛三等奖](https://mp.weixin.qq.com/s/SFO4y76OL08A6wjDQsosJw)（爱助智连：基于隐私计算与AI驱动的追光志愿服务平台）（谢志雄，池雨萱，何浈锐）
 - 2024年，[第三届湖南省研究生计算机创新大赛二等奖](http://www.hncf.org/readnews.asp?id=262&forwhat=%D1%A7%BB%E1%B6%AF%CC%AC)（爱助智连：基于隐私计算与AI驱动的追光志愿服务平台）（谢志雄，何浈锐，池雨萱）
 - 2023年，[第四届湖南省研究生人工智能创新大赛二等奖](https://mp.weixin.qq.com/s/0CMiToutLKWaHF1Ewirz_w)（爱电智连：基于隐私计算与 AI 驱动的新型电力交易平台）（阳智欢，曾德文，谢志雄）
 - 2023-2024年，研究生校级学业一等奖学金
+- 2023年，第四届湖南省研究生人工智能创新大赛二等奖（排名第三）
 - 2023年，计算机学院院级拔河比赛一等奖
 - 2023年，计算机学院院级篮球赛二等奖
-
-
 
 
 <a id="曾德文" > </a>
@@ -335,16 +353,26 @@ High-Performance and Secure Jaccard Similarity Estimation for Cloud Storage Zhix
 ###    曾德文 (Dewen Zeng)
 
 ***个人简介：***
-曾德文，湖南衡阳人，南华大学计算机学院专硕研究生在读，在平时的学习科研上能够积极探索，主动思考。目前研究兴趣涉及相似数据消冗、联邦学习和云计算安全等。已在IEEE Transactions on Cloud Computing（中科院二区，云计算顶刊）发表论文一篇。
+曾德文，湖南衡阳人，计算机学院2023级计算机技术专业硕士研究生，现为华中科技大学博士研究生，研究方向主要包括高效数据缩减、联邦学习、数据归因，以及图神经网络与AI4Science等。为人随和好相处，具有良好的团队协作精神，兴趣广泛，对科研与生活始终保持积极探索态度。
 
 ***发表学术论文：***
-Dewen Zeng, Wenlong Tian, Tingting He, Ruixuan Li, Xuming Ye, Weijun Xiao, Zhiyong Xu. IBNR-RD: Intra-Block Neighborhood Relationship-Based Resemblance Detection for High-Performance Multi-Node Post-Deduplication. IEEE Transactions on Cloud Computing, 2024, doi: 10.1109/TCC.2024.3514784（中科院二区）
+- Dewen Zeng, Wenlong Tian*, Haozhao Wang, Jianfeng Lu, Weijun Xiao, Zhiyong Xu: Ripple Shapley: Data Influence Attribution in One Federated Training Run. AAAI 2026: 28085-28093 (Oral, CCF-A 类推荐会议)
+- Dewen Zeng, Wenlong Tian*, Tingting He*, Ruixuan Li, Xuming Ye, Zhiyong Xu: IBNR-R D: Intra-Block Neighborhood Relationship-Based Resemblance Detection for High-Performance Multi-Node Post-Deduplication. IEEE Trans. Cloud Comput. 13(1): 118-129 (2025) (JCR-Q1, CCF-B 类推荐期刊)
+- Zhenrui He, Wenlong Tian*, Zhixiong Xie, Dewen Zeng, Jianfeng Lu, Zhiyong Xu, Weijun Xiao, Yaping Wan: Smart-to-Compress: A Predictive and Game-Theoretic Framework for Data Reduction Decisions. IEEE Trans. Cloud Comput. 14(1): 406-418 (2026) ( JCR-Q1, CCF-B 类推荐期刊)
+
 
 ***获奖列表：***
-- 2024年第五届湖南省研究生人工智能创新大赛二等奖
--  2024年第三届湖南省研究生计算机创新大赛二等奖
-- 2023年第四届湖南省研究生人工智能创新大赛二等奖
-- 2023-2024学年南华大学研究生学业二等奖学金
+- 2026届湖南省省级优秀毕业生
+- 2026届南华大学校级优秀毕业生
+- 2026年南华大学计算机学院学术之星
+- 2025年度研究生国家奖学金
+- 2024-2025年研究生校级一等奖学金
+- 2023-2024年研究生校级二等奖学金
+- 2023年研究生校级新生三等奖学金
+- 2024年，第五届湖南省研究生人工智能创新大赛省二等奖（智能机器人辅助的船厂生产管理系统；曾德文；汤熠，阳智欢）
+- 2024年，第三届湖南省研究生创新大赛省二等奖（智能机器人辅助的船厂生产管理系统；曾德文；汤熠，阳智欢）
+- 2023年，第四届获湖南省研究生人工智能创新大赛省二等奖（爱电智连：基于隐私计算与 AI 驱动的新型电力交易平台 阳智欢；曾德文；谢志雄 ）
+- 基于云链融合的相似图像安全去重与隐私保护研究, 2024年校级研究生科研创新项目
 
 
 
