@@ -198,7 +198,7 @@ writing...
 
 
  # 照片墙❤️
-<div style="overflow-x: auto;">
+
 <table>
   <tr>
     <!-- 第一行四列 -->
@@ -244,7 +244,6 @@ writing...
     <td width="25%"><img src="../imgs/activities/202606209.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
 </table>
-</div>
 
 
 <!-- | 图片1 | 图片2 | 图片3 | 图片4|
@@ -277,6 +276,7 @@ writing...
  阳智欢，计算机学院2022级电子信息专业硕士研究生，在学院担任副班长，党支部副书记。学习上，我积极完成导师布置的科研任务，认真学习专业相关的知识。生活中，我是一个比较随和的人，热爱运动，享受运动给我带来的快乐。
 
 ***发表学术论文：***
+- Zhihuan Yang,  **Wenlong Tian***,  Ruixuan Li,  Xuming Ye,  Zhiyong Xu:Nis-PoW: Non-interactive secure Proof of Ownership for cloud storage, Journal of Systems Architecture, 2026 （已录用）
 - 阳智欢，田纹龙，何婷婷，叶旭明，唐佳，上下文语义嵌入的变粒度云存储相似数据去重技术，计算机技术与发展,2024（已录用，CCF-C推荐期刊）
 - Zhihuan Yang，Wenlong Tian，Ruixuan Li，Xuming Ye，Zhiyong Xu. Who Owns the Cloud Data? Exploring a non-interactive way for secure proof of ownership .The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications（已录用，The IEEE TrustCom-2024,CCF-C会议)
 - Zhihuan Yang，Wenlong Tian，Emma Zhang， Zhiyong Xu. c The 23rd IEEE International Conference on Trust, Security and Privacy in Computing and Communications（已录用，The IEEE TrustCom-2024,CCF-C会议)
