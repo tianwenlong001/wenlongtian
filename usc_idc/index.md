@@ -10,7 +10,8 @@
 * 区块链与人工智能安全
 * 密码学分析
 * 并行与分布式计算
-* DNA存储
+* 医工交叉
+* 核工业安全
 
 # 新闻🎉️
 * 【2026-05】 我们的论文“A Blockchain-Based Decentralized Trusted Cloud Resource Storage Pricing Incentive Mechanism”被The 19th International Conference on Knowledge Science, Engineering, and Management录用 **（CCF-C ）** 录用。
@@ -84,7 +85,7 @@ Yuxuan Chi, Qiong Tao, Wenlong Tian*, Jianfeng Lu, Zhiyong Xu, Yaping Wan, Wei L
 
 
 <a id="谭铮" > </a>
-<img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
+<img src="../imgs/tz.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
 ###   谭铮 (Zheng Tan))
@@ -100,7 +101,7 @@ writing...
 
 
 <a id="程煜惠" > </a>
-<img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
+<img src="../imgs/cyh.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
 ###   程煜惠 (Yuhui Cheng))
@@ -117,7 +118,7 @@ writing...
 
 
 <a id="谢康" > </a>
-<img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
+<img src="../imgs/xk.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
 ###   谢康 (Kang Xie))
@@ -133,7 +134,7 @@ writing...
 
 
 <a id="周秀川" > </a>
-<img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
+<img src="../imgs/zxc.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
 ###   周秀川 (Chuanxiu Zhou))
@@ -149,7 +150,7 @@ writing...
 
 
 <a id="周瀚" > </a>
-<img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
+<img src="../imgs/zh.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
 ###   周瀚 (Han Zhou))
@@ -163,7 +164,7 @@ writing...
 ***获奖列表：***
 
 <a id="陈润泽" > </a>
-<img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
+<img src="../imgs/crz.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
 ###   陈润泽 (Runze Chen))
@@ -179,7 +180,7 @@ writing...
 
 
 <a id="何依容" > </a>
-<img src="../imgs/13121741770602_.pic.jpg" style="width: 200px; height: auto;">
+<img src="../imgs/hyr.jpg" style="width: 200px; height: auto;">
 <!-- ![Alt](../imgs/13121741770602_.pic.jpg){width=150px} -->
 
 ###   何依容 (Yirong He)
@@ -201,39 +202,46 @@ writing...
 <table>
   <tr>
     <!-- 第一行四列 -->
-    <td width="25%"><img src="../imgs/8771740462569_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/8781740462586_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13261741787164_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13251741787143_.pic_hd.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/8771740462569_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/8781740462586_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13261741787164_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13251741787143_.pic_hd.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
   <!-- 更多行直接复制上方 <tr> 块 -->
    <tr>
     <!-- 第一行四列 -->
-    <td width="25%"><img src="../imgs/68061740499721_.pic_hd.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13461741790524_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13511741790673_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13641741790735_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/68061740499721_.pic_hd.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13461741790524_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13511741790673_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13641741790735_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
   <tr>
     <!-- 第一行四列 -->
-    <td width="25%"><img src="../imgs/13771741790856_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13681741790738_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13821741791453_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13731741790851_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13771741790856_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13681741790738_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13821741791453_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13731741790851_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
   <tr>
     <!-- 第一行四列 -->
-    <td width="25%"><img src="../imgs/13581741790680_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13601741790682_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13741741790852_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13721741790850_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13581741790680_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13601741790682_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13741741790852_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13721741790850_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
   <tr>
     <!-- 第一行四列 -->
-    <td width="25%"><img src="../imgs/13831741791476_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13841741791544_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13951741791586_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
-    <td width="25%"><img src="../imgs/13801741791441_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13831741791476_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13841741791544_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13951741791586_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/13801741791441_.pic.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+  </tr>
+  <tr>
+    <!-- 第一行四列 -->
+    <td width="25%"><img src="../imgs/activities/202606205.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/202606206.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/202606207.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
+    <td width="25%"><img src="../imgs/activities/202606209.jpg" style="width:100%; height:200px; object-fit: contain;"></td>
   </tr>
 </table>
 
@@ -377,7 +385,7 @@ writing...
 
 
 
-# 论文推荐&数据集👀️  
+<!-- # 论文推荐&数据集👀️   -->
 
 
 
